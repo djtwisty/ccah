@@ -1,0 +1,57 @@
+
+@font-face	 			{  	font-family: 'Roboto-Light';
+  							src: url('../fonts/Roboto-Light.eot?') format('eot'), 
+  							url('../fonts/Roboto-Light.woff') format('woff'), 
+  							url('../fonts/Roboto-Light.ttf') format('truetype');
+  						}
+@font-face		 		{
+  							font-family: 'Roboto-Regular';
+  							src: url('../fonts/Roboto-Regular.eot?') format('eot'), 
+  							url('../fonts/Roboto-Regular.woff') format('woff'), 
+  							url('../fonts/Roboto-Regular.ttf') format('truetype');
+  						}
+@font-face 				{
+  							font-family: 'Roboto-Bold';
+  							src: url('../fonts/Roboto-Bold.eot?') format('eot'), 
+  							url('../fonts/Roboto-Bold.woff') format('woff'), 
+  							url('../fonts/Roboto-Bold.ttf') format('truetype');
+						}
+@font-face 				{               
+  						   font-family: 'Roboto-Medium';
+  						   src: url('../fonts/Roboto-Medium.eot?') format('eot'), 
+  						   url('../fonts/Roboto-Medium.woff') format('woff'), 
+  						   url('../fonts/Roboto-Medium.ttf') format('truetype');
+						}
+
+ 
+
+
+/*.transaction                                        { padding: 10px 0px; position: relative;}*/
+/*.transaction                                        { padding: 60px 0px; position: relative;}*/
+.transaction .slick-prev:before, 
+.transaction .slick-next:before                     { opacity: 0;}
+.transaction .slick-prev, .transaction .slick-next  { font-size:14px;  width: auto;  height: auto;  color: inherit;  top: inherit; bottom: 0px; bottom: -45px;}
+.transaction .slick-dots                            { position: absolute; bottom: inherit; top: 5px;left: 0px;text-align: left; left:20px; width: auto;}
+/*.transaction .slick-slider                          { margin-top: 30px;}*/
+.transaction .slick-slider                          { margin-top: 25px;}
+.transaction .slick-next                            { bottom: -14%;right: 0px; width: 50%;  background: #ec6e08; color: #fff;  padding: 10px; line-height: inherit; font-family: 'Roboto-Regular';  }
+.transaction .slick-prev                            {    bottom: -14%; left: 0px; width: 50%; background: #ec6e08; color: #fff; padding: 10px; line-height: inherit; font-family: 'Roboto-Regular';}
+.transaction .slick-slider                          { padding: 0 10px;}
+.transaction .slick-prev:before,          
+.transaction .slick-next:before                     { display: none;}
+.transaction .slick-dots li button                  { display: none;}
+.transaction  li                                    { background: #ccc; height:3px; width:25px; margin: 0 4px 0 0;}
+.transaction  li.slick-active                                      { background:  #fb7923;}
+.transaction button i                               { margin: 0 10px;}
+/*span.line-wht                                       { position: absolute; height: 20px;  border-right: 1px solid #fff; width: 1px; left: 100%; z-index: 8; font-family: 'Roboto-Regular'; }*/
+
+
+ul.transaction-list                                 { list-style-type: none; margin: 11px 0 0 0px; padding: 0px; font-family: 'Roboto-Regular'; font-size: 13px; }
+ul.transaction-list  li                             { width: 100%; background: none; padding: 10px; display: block; clear: both; }
+ul.transaction-list  li  .row                       {  border-bottom: 1px solid #efefef; padding: 10px 0; }
+.transaction .slick-slide                           { overflow-y:auto; overflow-x:hidden;}
+/*.transaction h2                                     { font-size: 14px; display: block; text-align: center; margin-bottom: 10px; text-align: left; color: #fb7923; position: absolute; top: 30px; left: 20px;}*/
+/*.transaction h2                                     { font-size: 14px; display: block; text-align: center; margin-bottom: 10px; text-align: left; color: #fb7923; position: absolute; top: 60px; left: 20px;}*/
+/*.orng-txt                                           {  color: #fb7923;}*/
+
+

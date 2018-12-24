@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/fonts-style.css" rel="stylesheet">
+    <link href="css/country-code.css" rel="stylesheet" />
+    <link href="css/custom-style.css" rel="stylesheet">
+    <link href="css/custom-loading.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/slick.css" />
+</head>
+<body>
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4 price primary_color">
+                </div>
+                <div class="col-xs-4 "><i class="logo-w-hm"></i></div>
+                <div class="col-xs-4"><a href="#" class="fq"><strong id="headerFAQ"></strong></a></div>
+            </div>
+        </div>
+    </div>
+    <div class="container login-container">
+        <div class="row">
+            <div class="col-xs-12 ">
+                <div class="pge-title"></div>
+                 <div id="wht-bg-cont-b" class="signup-cont">
+                    <button type="button" class="app-btn" id="newUserBtn"></button>
+                </div>
+                <div id="wht-bg-cont" class="wht-bg">
+                    <div class="login-inner-space ">
+                        <h1 id="headerLogin"></h1>
+                        <div class="form-cont">
+                            <div class="form-group">
+                                <div id="popup-pos">
+                                    <label id="lblLoginNo"></label>
+                                     
+                                    <input type="tel" id="mobileNumber" name="mobileNumber" class="form-control mobile-number">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label id="lblPassword"></label>
+                                <input type="password" id="password" class="form-control">
+                            </div>
+                            <div class="row action-label">
+                                <div class="col-xs-5">
+                                    <div class="check-box-l">
+                                        <input type="checkbox" id="rememberme" /><label id="lblRememberme" for="rememberme"></label>
+                                    </div>
+
+                                </div>
+                                <div class="col-xs-7">
+                                    <label>
+                                        <span id="lblForgetPassword"></span>
+                                        <br>
+                                        <a href="#" id="linkClickHere"></a>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="login-cont">
+                                <button type="button" id="loginbtn" class="app-btn"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+               
+            </div>
+        </div>
+    </div>
+    <div class="info-icon">
+        <img id="imgI" src="img/info-blue.svg" alt="" data-toggle="modal" data-target="#myModal" class="click_h">
+    </div>
+    <!-- Modal -->
+    <div class="modal fade info-popup" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="container login-cont-info">
+                    <div class="width-section">
+                        <div class="popup-info">
+                            <div class="row">
+                                <div class="col-sm-12 cols">
+                                    <div class="wrapper-height customfields">
+                                        <div class="popup-info-text Cont-a">
+                                            <p><strong id="lblInfo"></strong></p>
+                                            <p id="lblInfo1"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6 cols">
+                                    <div class="wrapper-height custompassword">
+                                        <div class="popup-info-text popup-info-min-hight">
+                                            <p id="lblInfo2"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-6 cols">
+                                    <div class="wrapper-height customremember" >
+                                        <div class="popup-info-text popup-info-min-hight">
+                                            <p id="lblInfo3"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="wrapper-bottom registerdiv">
+            <div class="popup-info-text">
+                <p id="lblInfo4"></p>
+            </div>
+        </div>
+    </div>
+
+    <div id="ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="message1"></p>
+                    <p id="message2"></p>
+                    <p id="message3"></p>
+                    <button type="submit" id="alertOk"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="./js_ext/jquery-1.11.1.js"></script>
+    <script src="./js_ext/bootstrap.min.js"></script>
+    <script src="js_common/App.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js_common/commonFunctions.js"></script>
+    <script src="js_localizations/MPResources.js"></script>
+    <script src="js_common/read_writefile.js"></script>
+    <script src="js/login.js"></script>
+    <script src="js_ext/intlTelInput.js"></script>
+    <script>
+        $("#mobileNumber").intlTelInput();
+    </script>
+     <div class="custom-modal"></div>
+  </body>
+</html>

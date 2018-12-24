@@ -1,0 +1,55 @@
+/* Start by setting display:none to make this hidden.
+   Then we position it in relation to the viewport window
+   with position:fixed. Width, height, top and left speak
+   speak for themselves. Background we set to 80% white with
+   our animation centered, and no-repeating */
+.custom-modal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 251, 250, 250, .5 )
+                url('../img/loading.gif') 
+                50% 50% 
+                no-repeat;
+}
+/*rgba( 251, 250, 250, .8 )*/ 
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+body.loading {
+    overflow: hidden;
+     
+}
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .custom-modal {
+    display: block;
+}
+
+body.whiteLoading .custom-modal {
+    display: block;
+      background: rgba( 251, 250, 250, 1 )
+                url('../img/loading.gif') 
+                50% 50% 
+                no-repeat;
+}
+ 
+body.imageLoading .custom-modal {
+    display: block;
+     background-image:url('../img/loader.gif');     
+     background-size:cover;
+     background-repeat: no-repeat;
+         
+}
+
+body.walletTopProcessing .custom-modal{
+     display:  block;
+     background-image:url('../img/walletTopProcessing.png');     
+     background-size:cover;
+     background-repeat: no-repeat;
+         
+}

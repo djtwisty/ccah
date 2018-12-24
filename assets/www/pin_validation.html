@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="./css/bootstrap.css" rel="stylesheet">
+    <link href="./css/fonts-style.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/custom-loading.css" rel="stylesheet" />
+    <link href="./css/custom-style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
+</head>
+<body>
+
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4">
+                    <a href="#" class="register" id="registrationHeader"></a>
+                </div>
+                <div class="col-xs-4 "><i id="backToHome" class="logo-w-hm"></i></div>
+                <div class="col-xs-4"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container marginTop">
+        <div class="row">
+            <div class="col-xs-12  ">
+
+                <div id="wht-bg-cont" class="wht-bg pinconfirm">
+
+                    <h3 id="lblValidationHeader"></h3>
+                    <p><span id="lblPinInfo"></span></p>
+                    <input type="tel" id="requestPin" maxlength="6">
+                    <button type="button" class="app-btn" id="validatePinBtn"></button>
+                    <h3 id="SmsPinInfoLabel2"></h3>
+
+                    <button type="button" class="app-btn" id="PINvalidationtrylaterbutton"></button>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+    <div id="ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="message1"></p>
+                    <p id="message2"></p>
+                    <p id="message3"></p>
+                    <button type="submit" id="alertOk"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="./js_ext/jquery-1.11.1.js"></script>
+    <script src="./js_ext/bootstrap.min.js"></script>
+    <script src="js_common/App.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js_localizations/MPResources.js"></script>
+    <script src="js_common/commonFunctions.js"></script>
+    <script src="js/pin_validation.js"></script>
+    <script type="text/javascript">
+        function setInnerBodyHeight() {
+            $("#wht-bg-cont").height(($(window).height()) - ($("#wht-bg-cont").offset().top) - 20);
+        }
+        $(document).ready(function () {
+            setInnerBodyHeight();
+            $(window).resize(function () {
+                setInnerBodyHeight();
+            });
+        });
+    </script>
+    <div class="custom-modal"></div>
+</body>
+</html>

@@ -1,0 +1,2395 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA1-Digest-Manifest: 4QhdqmN9Dc9rtLt13/1JPY9/Tjw=
+Created-By: 1.0 (Android)
+
+Name: assets/www/js_ext/jquery.min-1.11.3.js
+SHA1-Digest: N7HbiLV0OPEHKo68dVnJCcnTpoI=
+
+Name: assets/www/img/close_menu.svg
+SHA1-Digest: kUHcQV7OcZfTLsWq6xz6BpzRbmE=
+
+Name: firebase-abt.properties
+SHA1-Digest: /QeQXbjjn/GpG2Q3Z05use+gUYI=
+
+Name: assets/html-ja/license.html
+SHA1-Digest: cpwMyYYQm4bCpDuDg7s1HW2EjcU=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: I7N7czh09CMBaNFUyy5bb/6OI00=
+
+Name: assets/www/r-js/SwitchySpec.js
+SHA1-Digest: t8r3W1LsowcjpOPjMWTcH/SunZc=
+
+Name: assets/html-it/scanning.html
+SHA1-Digest: gY1EdUUcxLB51mRsEbrtHCb2+vY=
+
+Name: assets/www/img/icon_myarea_little-s.svg
+SHA1-Digest: SC5Xgs7vTPPMGR7JwUgw5O05KOo=
+
+Name: res/drawable-xxhdpi-v4/ic_action_remove.png
+SHA1-Digest: GbOqf2Yga6qVAxaA3ec35ac0Yio=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: XHpmoqubxepmAoVgQn8rgHUMPbc=
+
+Name: res/drawable-xxhdpi-v4/ic_action_next_item.png
+SHA1-Digest: c25EZH3BjQyHSy++YinAPl3kQmE=
+
+Name: assets/html-uk/scanning.html
+SHA1-Digest: WNSTLPOK1PgPk1tM2EyrVyi0p1c=
+
+Name: assets/www/plugins/cordova-plugin-appversion/www/app-version.js
+SHA1-Digest: hDs8runPUWn2fPb6IbXFDM5yLA4=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.ttf
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+
+Name: assets/www/img/es/Useful_Info_04.png
+SHA1-Digest: CWjb45hI1EnKCrc0SoqkMD27ypY=
+
+Name: kotlin/coroutines/experimental/Continuation.kotlin_metadata
+SHA1-Digest: PH+g7h8Feas9+ouGU84fWeHg7fc=
+
+Name: assets/www/img/loading.gif
+SHA1-Digest: 9uWJQxLEDtJ4qj1wTr0b5R8O+B4=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/android/notificati
+ on.js
+SHA1-Digest: QDJ4/bi0oU0Bq0+2hMMPG7rRKOk=
+
+Name: res/drawable-mdpi-v4/ic_action_previous_item.png
+SHA1-Digest: hQHJ4uWUXYR/W5HKEfkoL0otUKY=
+
+Name: assets/www/img/tri-img.svg
+SHA1-Digest: EogtLQvwOoge6EdBkKn3X831xC4=
+
+Name: assets/www/js_common/App.js
+SHA1-Digest: Of50MsYBKUo8pxRASUw8pgIa3iE=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: FVwW8q5pXNyqdiSUoAgfev5NTHs=
+
+Name: assets/html-nl/sharing.html
+SHA1-Digest: 4Wre+gqbYLLmpA4fkrZB4MsCcqY=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: Ya1tpyHj6UguHBTnIseHxBePDSA=
+
+Name: kotlin/collections/IndexedValue.kotlin_metadata
+SHA1-Digest: BOL6L+3Ey4pxrSK3hQXeZMnnPvo=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA1-Digest: Mp14FgGLVMAFx4aJz9gLqSo67Ns=
+
+Name: assets/html-fr/whatsnew.html
+SHA1-Digest: RRuJ1ojJ2c2Y4ZeAI77WFfIuTyg=
+
+Name: assets/html-ru/about1d.html
+SHA1-Digest: wHjTW9Md25AML8Jztq5pTwsE3ME=
+
+Name: assets/www/issue_reporting.html
+SHA1-Digest: w13IyphQJvGDCCOQOiNr0r9mGVY=
+
+Name: assets/www/img/disable-icons/menu-promo-icon.svg
+SHA1-Digest: 8clTRqXBB1dVRJYrYAo9UIESS6g=
+
+Name: assets/www/img/img.svg
+SHA1-Digest: LwDzWQoUEIwKwQ+7TPwzBZMer0c=
+
+Name: assets/html-zh-rTW/whatsnew.html
+SHA1-Digest: pEo0XYWez1jszNRBMCzRM/u26y8=
+
+Name: assets/www/js/wallet-confirm.js
+SHA1-Digest: AFalXKB0e+jlSrEsTfcgewC1hCU=
+
+Name: assets/html-ru/index.html
+SHA1-Digest: i1Ozo1R5moOxqQCk4FZlMTPhRnE=
+
+Name: assets/www/fonts/Roboto-Italic.ttf
+SHA1-Digest: TE+vej+uTQsUdFYfAICZXTWIYaw=
+
+Name: play-services-base.properties
+SHA1-Digest: 7guVtJosEHp5mmkQOmZNptpPoo4=
+
+Name: assets/html-nl/whatsnew.html
+SHA1-Digest: xhuyZzT5p1af3iJbKA1GS9LqmeI=
+
+Name: assets/html-zh-rCN/about1d.html
+SHA1-Digest: hr1cXPAl4FHI3wuaQbaVeoOuL0Y=
+
+Name: assets/www/my_area_postBonus.html
+SHA1-Digest: x+mGS2rb6Wx1jEa5tOdmic1MYwc=
+
+Name: assets/www/img/oggetto_vettoriale_avanzato.svg
+SHA1-Digest: iJrrLngHql4IqIV4+Ixr+2FEeTc=
+
+Name: assets/www/img/en/Useful_Info_03_back.png
+SHA1-Digest: 5SQptS/EwBf5chJk+k9kVHvpv1Y=
+
+Name: assets/www/fonts/Roboto-Medium.svg
+SHA1-Digest: HjDJrQaJKQa8NVJ7XsZZGl3h1ys=
+
+Name: kotlin/UseExperimental.kotlin_metadata
+SHA1-Digest: nbPe9JmYn30jdngVm9tZwpgagV8=
+
+Name: assets/www/creditcard-confirm.html
+SHA1-Digest: eMJZ+Pfg9NQD1fzZgbhg0WlnJJc=
+
+Name: assets/www/img/hrt-line-icon.svg
+SHA1-Digest: E/qhCGCw0bgzGheeaAIBJCSD47c=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: PpWZKZFjPFyMgpHfeMn9iqgiRa8=
+
+Name: res/layout/encode.xml
+SHA1-Digest: 3hlAnl+B27O0YN/UtakJp9YZYd0=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: Xu/vb2avz7RRuCeMEpG0r934+10=
+
+Name: play-services-measurement-base.properties
+SHA1-Digest: CTieXOQ8i5ic+57AmEjFqgNQzdM=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: WY63KRIwUfBJT7ADJajHaAGlUMA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: 7S9TcXc89Lj6FlK/Rtfvh5fIwLQ=
+
+Name: kotlin/internal/OnlyInputTypes.kotlin_metadata
+SHA1-Digest: drEmRnLzB1XJv8jqaXS/thjLwVQ=
+
+Name: assets/www/img/tabflags.png
+SHA1-Digest: EflKXE8sa37GeUQAm1maDG7QQ3Q=
+
+Name: res/drawable-port-xxhdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: kotlin/collections/State.kotlin_metadata
+SHA1-Digest: 9nRjHO/gKWTEgtZ2KDrPdCgSvDk=
+
+Name: kotlin/jvm/JvmField.kotlin_metadata
+SHA1-Digest: SiuQ8ViyS4dha1RS/E0PsLHT73w=
+
+Name: assets/www/slick/slick.js
+SHA1-Digest: 4vvDQK6pjBN8mWzyYT+YFyedxEA=
+
+Name: kotlin/properties/ObservableProperty.kotlin_metadata
+SHA1-Digest: DtHyXZCSFp8VrFGd6IXGSTs0vG4=
+
+Name: kotlin/text/MatchNamedGroupCollection.kotlin_metadata
+SHA1-Digest: BVoeCkVDl9QmhP16jKgevZa2oVo=
+
+Name: kotlin/properties/Delegates.kotlin_metadata
+SHA1-Digest: 06S737cS97x+0T3V7Fe+mWsZwHc=
+
+Name: kotlin/internal/HidesMembers.kotlin_metadata
+SHA1-Digest: rSvstx/vHCQYx/SwlfFpBTY6rMM=
+
+Name: kotlin/LazyKt.kotlin_metadata
+SHA1-Digest: tVnmZ0gShfLbXVC0RwoDRKClyjM=
+
+Name: assets/www/ex-css/animations.css
+SHA1-Digest: AQFUDy+DO4mKAyYyK6HicEUwNko=
+
+Name: assets/www/img/es/Useful_Info_03.png
+SHA1-Digest: NLefoP8ewh0wm4vqUc0VwSBQQxs=
+
+Name: kotlin/sequences/DropWhileSequence.kotlin_metadata
+SHA1-Digest: l3xbFpxe24WZJCClyyBzqx6WNvc=
+
+Name: assets/www/js/faq.js
+SHA1-Digest: /VjAgbPUx3ffScjRe3fcr+00smA=
+
+Name: assets/www/registerSignup.html
+SHA1-Digest: D6oW4aF1bm4Dk07+yQ4qYBaEnfw=
+
+Name: assets/html-nl/about1d.html
+SHA1-Digest: 2ftbZJQsR90/8DEBamsN7+eHbFo=
+
+Name: kotlin/text/StringBuilderKt.kotlin_metadata
+SHA1-Digest: O9w7L/CiGBBJ8vywNkypH2FSo48=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: sbalRnfCBJXlLc218fU4OXCE3Cs=
+
+Name: kotlin/collections/LinkedHashMap.kotlin_metadata
+SHA1-Digest: 0jggRqOTwmEdnZC+GxCxW4sKBRo=
+
+Name: assets/www/img/rotating.gif
+SHA1-Digest: NSYG5TO9ORikya+jwNwKWSJze7A=
+
+Name: assets/html-en/index.html
+SHA1-Digest: fb/hyToULukPgY0+TP5MB7boDnw=
+
+Name: firebase-measurement-connector.properties
+SHA1-Digest: vewgLbglkjap4cpsUvkxTgVFo6A=
+
+Name: assets/www/css/popup.css
+SHA1-Digest: iANcxgbyRAMGuj+QKisOq64ZbWg=
+
+Name: META-INF/kotlin-stdlib.kotlin_module
+SHA1-Digest: cpXDlJFEUt4vawNfqO42ODQusnk=
+
+Name: assets/html-pt/about1d.html
+SHA1-Digest: rB9jJKp0oDZCw31a/UvPhu/qFfA=
+
+Name: assets/html-nl/about2d.html
+SHA1-Digest: FgX6c/h0pc8HRk8w98R9hdLndSk=
+
+Name: assets/www/img/myarea-ttl-pic.png
+SHA1-Digest: iXfuPkdqpXeFWbN0zsqnh/azKWs=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: /BJiOmFTgPRrRYBjJrMoCOUNn6E=
+
+Name: firebase-core.properties
+SHA1-Digest: 4SrspDvjsh4jt+h47hWunSLA2ZA=
+
+Name: kotlin/collections/AbstractIterator.kotlin_metadata
+SHA1-Digest: k36uiavUlrZVTdo/d9QrkNiIKtY=
+
+Name: kotlin/text/DelimitedRangesSequence.kotlin_metadata
+SHA1-Digest: JF9+q0T95QWcmzQFRKhgnRUhX84=
+
+Name: assets/www/js_ext/iscroll.js
+SHA1-Digest: 0SG/wfBWVJmGSLYmx/d3qM5mhR0=
+
+Name: kotlin/UnsafeLazyImpl.kotlin_metadata
+SHA1-Digest: 4MaqMvpQpKvyeW/fCJ0hc029Omo=
+
+Name: assets/www/js/my_area_details.js
+SHA1-Digest: FscUmIvpsMODGLGKSa4h31F4GVU=
+
+Name: assets/www/termsAndConditions.html
+SHA1-Digest: z9tkkglBYcErcKaG+eeVpZ29kwA=
+
+Name: assets/www/css/rainbow.css
+SHA1-Digest: 4PDCd+jq3qGZ13R9cPEvC56vo6g=
+
+Name: assets/www/js/tutorial.js
+SHA1-Digest: Q+QxtuRL6ERExDUNZayXfzlnJYg=
+
+Name: res/layout/capture.xml
+SHA1-Digest: mdOmlW4wKwbz4nxx0y+WrMwG4NE=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.eot
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+
+Name: firebase-config.properties
+SHA1-Digest: 0NoZqcvE7zyLACwYr0Fz0lXWnbk=
+
+Name: kotlin/collections/SlidingWindowKt.kotlin_metadata
+SHA1-Digest: XLnKT4nTjLHz7/8yS7hpDqaFf+E=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: AVEnl1lCcTT1kNEwyKMNCwDOG5k=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: Rz1oh9e40+wiOcPX5mv6fHWbgLY=
+
+Name: assets/www/img/en/Useful_Info_03.png
+SHA1-Digest: t10g2TaLF7nnfRYOZxDhGeG6Emk=
+
+Name: assets/www/img/it/flashOff.svg
+SHA1-Digest: ocZrwIxJFv+qzufqbGFcCiTI6sE=
+
+Name: assets/html-ja/index.html
+SHA1-Digest: Un3x72e9Spgu09v5BDhI3BeMvBQ=
+
+Name: assets/www/img/flashOn.svg
+SHA1-Digest: XCMPJ0SEC7iahTlJyRGFSx+srTg=
+
+Name: assets/images/big-aztec.png
+SHA1-Digest: Q+Nn1FqovFmNF9o5lvrki4RxwLc=
+
+Name: kotlin/collections/IndexingIterator.kotlin_metadata
+SHA1-Digest: CExwlTj9YchNgk1gmn0yRPnVxxk=
+
+Name: kotlin/coroutines/experimental/CoroutinesLibraryKt.kotlin_metada
+ ta
+SHA1-Digest: ZUjfRx8mH1r4SjRQXIQwd/k8Azo=
+
+Name: assets/www/img/es/Useful_Info_06.png
+SHA1-Digest: hXGNjqo1Y4LajPFS9oXzUvjV4o4=
+
+Name: assets/www/css/prelude.css
+SHA1-Digest: r1qdROQ/TnqENVery7lXKTFiHwo=
+
+Name: assets/html-ru/sharing.html
+SHA1-Digest: sQtRx/Y4u32Yyjh8pLm7CbiF2K0=
+
+Name: play-services-flags.properties
+SHA1-Digest: 3/WFzPDQMggNNDPY1rDOy2fZitM=
+
+Name: kotlin/collections/EmptyList.kotlin_metadata
+SHA1-Digest: Bk/D8TQy6jGiblYmNjYs+EPZaA4=
+
+Name: assets/html-nl/license.html
+SHA1-Digest: SVtEe4iP/HiVZbIUsgGnWwjkfuY=
+
+Name: kotlin/WasExperimental.kotlin_metadata
+SHA1-Digest: DXXEb2F2VzoAIyLo0s8go0ExDjo=
+
+Name: assets/www/proguard-custom.txt
+SHA1-Digest: QIUIafXoKm7fT+cyUY4/YrbrWWU=
+
+Name: res/layout/bookmark_picker_list_item.xml
+SHA1-Digest: T2r8h3m7m4IqVR6SQpLJlCvZz6E=
+
+Name: assets/www/promo-page.html
+SHA1-Digest: YWLeqRFxlPVfoU15JEdC+gggnCc=
+
+Name: assets/www/css/index.css
+SHA1-Digest: Xn5KKnRg99sIQW5z0rf5zJjEDgI=
+
+Name: kotlin/collections/EmptyIterator.kotlin_metadata
+SHA1-Digest: 8sd93WbqeLU69qV7Pe9dMK60Hss=
+
+Name: kotlin/collections/MapWithDefaultKt.kotlin_metadata
+SHA1-Digest: e7OYxkX0OVJ7CE3Ki46XSEcINDE=
+
+Name: firebase-crash.properties
+SHA1-Digest: +DZd+SN1qEe7qbmOBubzsGJK+Es=
+
+Name: kotlin/sequences/SubSequence.kotlin_metadata
+SHA1-Digest: DdWUe2gFpm4TLTuUbRJQUyNyTPI=
+
+Name: assets/www/img/setting.png
+SHA1-Digest: Rw+0yyR1jFSuoYsMmBu5USphnxg=
+
+Name: kotlin/text/Regex.kotlin_metadata
+SHA1-Digest: rPKe3+ll00zuSFiODRjngVZcP9Y=
+
+Name: kotlin/collections/IndexingIterable.kotlin_metadata
+SHA1-Digest: Lx/yx2pyObm6xPez5B73JSfOyRM=
+
+Name: assets/www/css/bootstrap.min.css
+SHA1-Digest: CN+alnUoUvLL0xDDD6zZNONIwsU=
+
+Name: assets/www/splashLogin.html
+SHA1-Digest: uhj/ZFSYvn3/iLTwGxwlM7leCzI=
+
+Name: assets/www/fonts/fontawesome-webfont.ttf
+SHA1-Digest: kIgUOxmXl3myEWzvOLZh9y2YLhk=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: nDf0GWYHnKB/ov44Da+gbZz9xkk=
+
+Name: assets/www/plugins/cordova-plugin-vibration/www/vibration.js
+SHA1-Digest: dqB85Bwd5v1eWWXewtYzJAyr9bQ=
+
+Name: assets/www/css/custom.css
+SHA1-Digest: zo9SF5kEpgBv+EpK/U6sIk/R2GI=
+
+Name: assets/www/img/fr/promo_pop-up_FR.png
+SHA1-Digest: rBooIQAMI4tYYs6DLBfM0/Ykyq8=
+
+Name: assets/www/fonts/Roboto-Bold.ttf
+SHA1-Digest: bLtXuiNVz0QuBomYmP9a9VhnED4=
+
+Name: kotlin/KotlinVersion.kotlin_metadata
+SHA1-Digest: MGiscNsMNyUd/G3ijqxNgDGPtqE=
+
+Name: assets/www/js_localizations/MPResources.es-ES.js
+SHA1-Digest: z/fEwXCWep1Trkpb1S2mAE9FzLM=
+
+Name: kotlin/coroutines/experimental/CombinedContext.kotlin_metadata
+SHA1-Digest: yh/Y5Jepws2vncMR4LC+jmhepXg=
+
+Name: play-services-tagmanager.properties
+SHA1-Digest: y9OmRYQd0qqfZK/ECB9oBjImt4Y=
+
+Name: assets/www/js_ext/intlTelInput.js
+SHA1-Digest: VRuITQOtWlktcDn03smLqjlKdPs=
+
+Name: assets/html-pt/sharing.html
+SHA1-Digest: QfMqtwo6i7BpeIY+3RAB+wcvM5w=
+
+Name: assets/www/img/disable-icons/icon_myarea_little.svg
+SHA1-Digest: bLLHtZ627QMkC9OJAWw1ruopL54=
+
+Name: res/drawable-xhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: 0dsU8dFcc2mtwhzv/EDl6N0yNE0=
+
+Name: assets/html-ru/scanning.html
+SHA1-Digest: M6wf70BYO4cRwMdzdDwDuxwsg7Y=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: /2sM8+ZscD7VvnivvixTILkLppI=
+
+Name: assets/www/plugins/com.phonegap.plugin.mobile-accessibility/andr
+ oid/chromeandroidvox.js
+SHA1-Digest: xnoedqLFBKy72vkRSfGTGpqb2dw=
+
+Name: kotlin/collections/ReversedListReadOnly.kotlin_metadata
+SHA1-Digest: UjJ4vQQ/8yk61ldbIQ60Gh/Q5zU=
+
+Name: play-services-ads-identifier.properties
+SHA1-Digest: gnXkzhcfw9RuzCgXluNWR1PoUsc=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: CXiP1E+Ru7ku+ev2pEyZRXcVJPM=
+
+Name: assets/www/js/promo.js
+SHA1-Digest: qc7hLJZVezszFVdjZLXGLo5A6I0=
+
+Name: assets/www/ex-js/wallet_connection_pagetransitions.js
+SHA1-Digest: jrlG6Ioy6oo2zY+5c17cQKNeWzs=
+
+Name: res/layout/help.xml
+SHA1-Digest: PbZqDtBCbmwWeShthO+ZNjvQ2KY=
+
+Name: assets/www/my_area.html
+SHA1-Digest: IDCiGaq29+l6u3B67TFDc8nxx3M=
+
+Name: kotlin/jvm/JvmName.kotlin_metadata
+SHA1-Digest: ZMUFhOmLdlcUHYwn5aPjvr9ebw0=
+
+Name: assets/www/img/en/Useful_Info_02.png
+SHA1-Digest: QSnv7+1ZmQedTzc0IvLXd2nK9qg=
+
+Name: kotlin/sequences/Sequence.kotlin_metadata
+SHA1-Digest: 1+bZlyZbU65G/iiHaKO0bFwSpiU=
+
+Name: res/drawable/icon.png
+SHA1-Digest: +Sta2WOccafhjLq+7a2ncWkMbhc=
+
+Name: assets/www/fonts/fontawesome-webfont.eot
+SHA1-Digest: PmP8mz3kWA8fO+wGMUNvdVuA8Wc=
+
+Name: assets/html-es/license.html
+SHA1-Digest: SJYS6vIdKm9NfVNT6ky9KKqUCoM=
+
+Name: assets/www/img/es/Useful_Info_05.png
+SHA1-Digest: 3w4zQh6MUWlA2a8menZFgnJXqCc=
+
+Name: assets/www/last-transaction.html
+SHA1-Digest: XHPcz/lZ/UBjdnKZ8LMFbnGprZk=
+
+Name: kotlin/collections/MutableMapWithDefaultImpl.kotlin_metadata
+SHA1-Digest: FO9MCdzKNwea7lJzx0cXLMTuX0U=
+
+Name: assets/www/js_ext/applicationPreferences.js
+SHA1-Digest: AaKATztAEljlilY5AxWOauNNgeQ=
+
+Name: assets/www/fonts/Roboto-Regular.svg
+SHA1-Digest: 0Miqd2LjQ7FJu/se8xu/jDw0EvQ=
+
+Name: kotlin/collections/ArraysKt.kotlin_metadata
+SHA1-Digest: 6LZcchJmIrxAXIajAPG/9jT8uWI=
+
+Name: assets/www/img/fr/Useful_Info_06.png
+SHA1-Digest: HwI9fNCwsz0vfz+alhkBoEclxYI=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: GaPdNUgL0dKAM8FWHQHQBIDBBFY=
+
+Name: assets/www/js_common/appMenuBar.js
+SHA1-Digest: 7JnkntIJMedxlPLEGDCB4OPhReA=
+
+Name: kotlin/collections/EmptySet.kotlin_metadata
+SHA1-Digest: 0c+iVfzTLtjaUfUVmxGQQOQ31W4=
+
+Name: assets/www/img/eye-gls.png
+SHA1-Digest: Bv5OOWNBrV9zKumwmr7Stu2YDnY=
+
+Name: kotlin/ClassCastException.kotlin_metadata
+SHA1-Digest: nB0C8yNUFyh3RnX9trRPXgOiO/A=
+
+Name: assets/www/js_ext/slick.js
+SHA1-Digest: p6L+On8AZLolmGLZpaoJB6e6vSM=
+
+Name: kotlin/collections/AbstractList.kotlin_metadata
+SHA1-Digest: 2k9ub7li2thI4tmF8XFxxvirid4=
+
+Name: assets/www/css/owl.theme.css
+SHA1-Digest: viP/2qiwQkccJwA9GvZ41VtLmb0=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: 0gMsEN2xhCrJ91aMGiOzLRBuUjE=
+
+Name: kotlin/sequences/DistinctSequence.kotlin_metadata
+SHA1-Digest: cKIVOIYJUf3tplhyLcGFIMOzDZU=
+
+Name: assets/www/plugins/com.cordova.plugins.sms/www/sms.js
+SHA1-Digest: yx6AmWtw1B561zCMsI4+1IJVhNY=
+
+Name: assets/www/img/vector_smart_object.svg
+SHA1-Digest: 487+QSwJ+yPKpBn/k2T0CX4O+04=
+
+Name: kotlin/comparisons/ComparisonsKt.kotlin_metadata
+SHA1-Digest: RKymbRPvWqyCebBetn7iHLvEMY8=
+
+Name: assets/html-zh-rCN/sharing.html
+SHA1-Digest: UWxhttlsK3S8y9rEcJ/754olXV8=
+
+Name: kotlin/internal/contracts/SimpleEffect.kotlin_metadata
+SHA1-Digest: o1AcjH+7wisKS8yOBYPax47tc5Q=
+
+Name: assets/www/js/splashLogin.js
+SHA1-Digest: x+T7HxcyK/hu6wlPq/2Wc2az9+Y=
+
+Name: assets/www/img/en/Useful_Info_01.png
+SHA1-Digest: olusrVMJDHWkBS/FQs5xykHUYHA=
+
+Name: assets/www/js/registration.js
+SHA1-Digest: dWUA6GHp09luqcEBMW92mgQAlxg=
+
+Name: assets/html-ko/index.html
+SHA1-Digest: 723V5Es1nBRJKjn4VQqmcisrjR4=
+
+Name: assets/html-zh-rCN/index.html
+SHA1-Digest: 0ZNsKpDiOapuiU5iMTQNv79FsaE=
+
+Name: assets/www/importantNotice.html
+SHA1-Digest: ZST6lMLN5zceOUaXfSsneMUDef4=
+
+Name: kotlin/internal/InlineOnly.kotlin_metadata
+SHA1-Digest: YrbZM9trp85b5FjB+gnFM+GMugQ=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: yiGGHaiAhn0scWhbUwCk06TsMNQ=
+
+Name: assets/html-pt/about2d.html
+SHA1-Digest: ZaP2zdeDZxRIBC0tgIiIvmJ8BSc=
+
+Name: assets/html-zh-rCN/scanning.html
+SHA1-Digest: HyAG6iZkVSx19F8olUlhpuh/3XY=
+
+Name: res/layout-land/encode.xml
+SHA1-Digest: NNRcQNTibiJ9qw4Y4zM4SVhuU6k=
+
+Name: assets/www/js_ext/jquery-ui.js
+SHA1-Digest: PvrxHmDqjFQbbcJvDvCfGVcyWHo=
+
+Name: kotlin/collections/AbstractMutableList.kotlin_metadata
+SHA1-Digest: TCz25lLYpUiUmS5HwzciY86PdRU=
+
+Name: assets/www/js/setting.js
+SHA1-Digest: Un9uzi2UEjo1EEgL1pcqplNHxC0=
+
+Name: kotlin/collections/Grouping.kotlin_metadata
+SHA1-Digest: LfNOF+vK/AJ7THMS9riniQx0A/E=
+
+Name: assets/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.
+ js
+SHA1-Digest: CYm1ODCCbAgSllGygay6oThbtPA=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: cz2cTpSbxUR34pkCMo3M7a+mSXk=
+
+Name: kotlin/internal/contracts/Returns.kotlin_metadata
+SHA1-Digest: kmYQzGBUypQmJe/A7R83NcxwZ0I=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/notification.js
+SHA1-Digest: 40N9ub1TTHereKbVRJir+eJLDSY=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: h1LoGEv7CTdqAsjIHhJzt6kXxD4=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: umUS9qW1WgP0xfHyaa9FC31IcA0=
+
+Name: assets/www/js_ext/jquery.autocomplete.js
+SHA1-Digest: MTJrXO2+jlialx4bVxZAG8SFdTI=
+
+Name: assets/www/fonts/fontawesome-webfont.woff
+SHA1-Digest: Vs4T5xwhUNgbyXKUBYSRUYG9YIE=
+
+Name: assets/www/css/bootstrap.css
+SHA1-Digest: hlwQSeDzJdQiBFBUBPVSnC15yoA=
+
+Name: assets/www/plugins/cordova-plugin-network-information/www/networ
+ k.js
+SHA1-Digest: U+nQjhVmWBSve3URXohjRMkyyNA=
+
+Name: assets/www/img/en/Useful_Info_05.png
+SHA1-Digest: nmipTaMjBON47pmgfpm1VuEJNAM=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: DH8cWXwxEAXnqF2aHdFKbdDCVAQ=
+
+Name: res/layout/share.xml
+SHA1-Digest: rKl8a1UTdNJhVhAy1Vbf7VHoym8=
+
+Name: assets/www/slick/slick-theme.css
+SHA1-Digest: QQO0fEqql9Fm2x2ag7nurVU62ZQ=
+
+Name: assets/html-en/whatsnew.html
+SHA1-Digest: WiMGVghKqJhm7704EMwdskTiuSY=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: kotlin/sequences/FlatteningSequence.kotlin_metadata
+SHA1-Digest: puKL5T8QaI3We4wtq6FTDHN8SGQ=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: assets/www/fonts/Roboto-Medium.woff
+SHA1-Digest: pxNsqUqtzE0BDYdCYm9HqsgUado=
+
+Name: kotlin/comparisons/NaturalOrderComparator.kotlin_metadata
+SHA1-Digest: wjrWFQv3m0YFm5ziEwvT+MXAWLw=
+
+Name: assets/www/img/en/promo_pop-up_EN.png
+SHA1-Digest: dPoOivEHEy/tzJiDyHdEA6VA0Oc=
+
+Name: assets/html-ja/whatsnew.html
+SHA1-Digest: lXQlyvjR0HBt+UqSoz3XWZeQb+4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6YEh8K2VvLXnEkJpFUx7j7PyFWM=
+
+Name: assets/www/plugins/cordova-plugin-uniquedeviceid/www/uniqueid.js
+SHA1-Digest: ei90ajjnZdTXPSvx95PF3OZVgfM=
+
+Name: assets/www/js_ext/jquery.autocomplete.min.js
+SHA1-Digest: f0n9oAQKi5nHq1VsXKoBXUEYKhU=
+
+Name: assets/www/js_ext/slick_trans.js
+SHA1-Digest: 4NRG3jdI6TSuziY4afhncZuAMCQ=
+
+Name: assets/www/img/pci.png
+SHA1-Digest: ZjkltJk5lDmsLrH5j+x8+UzVi7Y=
+
+Name: assets/www/img/telephone.svg
+SHA1-Digest: RFzcIhp3moNjcCtsmVQd6Q/rNvw=
+
+Name: assets/www/js_localizations/MPResources.it-IT.js
+SHA1-Digest: ywi4tq8ibMBgHN/7jWtfs7txaKA=
+
+Name: kotlin/IllegalArgumentException.kotlin_metadata
+SHA1-Digest: OSggevpks/TzPTy0lG4XicHszsM=
+
+Name: assets/www/plugins/cordova-plugin-firebase/www/firebase.js
+SHA1-Digest: aXbmXerPy8MYywOpt3Awv407I1A=
+
+Name: assets/www/img/card-icon-s.svg
+SHA1-Digest: SKMDNsQ8+53hTO9lESh5sxmo8Ko=
+
+Name: res/layout/search_book_contents.xml
+SHA1-Digest: eEbQv0GwKTecagT24bUWCukzp6c=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: kotlin/internal/ContractsDsl.kotlin_metadata
+SHA1-Digest: VB/+0FF2aa1RAIJBVkaptEdvxOE=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA1-Digest: yD9oZ20JeI0KgCsh9WHkjjufTLU=
+
+Name: assets/html-es/about2d.html
+SHA1-Digest: pehyh4cS7eozsawmlx4QuhmL2SY=
+
+Name: assets/www/close_walletConnection.html
+SHA1-Digest: 3LGuN7rdOI2U43D1iuJwK/0Wq9E=
+
+Name: assets/html-ko/sharing.html
+SHA1-Digest: mT5DlkzMdHxMniVBBe+rYlMxRw4=
+
+Name: assets/www/fonts/fontawesome-webfont.woff2
+SHA1-Digest: EHUjFlD1eZVZBbsvZScUio4rSxY=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: G6RDUFbQ0YLLYBlaFoTk8zMv2ws=
+
+Name: assets/www/img/issue.png
+SHA1-Digest: FTkjyltj4zJzinuts+QePRjsEHU=
+
+Name: assets/html-de/sharing.html
+SHA1-Digest: BkiLvBSkPYdCUB8HMR5loiywA7Y=
+
+Name: assets/images/scan-example.png
+SHA1-Digest: aehDSZJZ0HxNKmbnGGbExR6wVtI=
+
+Name: assets/www/img/infoPre.svg
+SHA1-Digest: vdPqegVYGDhhJLcJg7mANQzhemM=
+
+Name: assets/www/plugins/cordova-plugin-fullscreen/www/AndroidFullScre
+ en.js
+SHA1-Digest: fgWbwn9BiGQ3t5QliQMmt40qZaY=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: uYa7OSOWE+v3GPxKjZ3FRpv29eo=
+
+Name: assets/www/cordova.js
+SHA1-Digest: nCXQXGTABPKuxHdrNk7q/Al4YFY=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: hbgrIArMCKnPb4LVhyH0pFRCfUs=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA1-Digest: +Sta2WOccafhjLq+7a2ncWkMbhc=
+
+Name: kotlin/LazyThreadSafetyMode.kotlin_metadata
+SHA1-Digest: uPsb1ZMtO712V0Q+kbreWlT6hkU=
+
+Name: assets/www/fonts/Roboto-Regular.woff
+SHA1-Digest: x7ykcb33spLXgRFMqNuJCaAaufY=
+
+Name: assets/www/bankPage.html
+SHA1-Digest: KQB00Oo+A9HqqOPBAUpdYtaS3fE=
+
+Name: kotlin/NoSuchElementException.kotlin_metadata
+SHA1-Digest: fP5FB1g7u7zmcVtEKS7xcRv0WXA=
+
+Name: assets/www/js/contact.js
+SHA1-Digest: AJB+0M/KivvbgSQNW6pxlpJlZUk=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: XBrlG5PBf4YH6VsSxD2+nV63KbU=
+
+Name: kotlin/sequences/DropTakeSequence.kotlin_metadata
+SHA1-Digest: gmxqoDIzIXsqZ/FZqsVcEbjdcYA=
+
+Name: assets/www/js_common/modalDialog.js
+SHA1-Digest: XYgGP0fXLuXUUrNt90QgR6hsw+M=
+
+Name: res/layout/app_picker_list_item.xml
+SHA1-Digest: w77UGUA8AowvPdWK8tibeHodh/0=
+
+Name: assets/www/img/PINOFF.png
+SHA1-Digest: TpZDCHu6I/xjzICkBt3gipokEgc=
+
+Name: assets/html-de/about1d.html
+SHA1-Digest: KVWBK7A8ciGlY+aOAOypPi4LRRQ=
+
+Name: assets/www/img/report-issue.png
+SHA1-Digest: vtbOGxqra3cSWvzS/MYdBA6FNQI=
+
+Name: assets/images/big-qr.png
+SHA1-Digest: 5sZQMlxLDUu09Ai2mZUKoi7glwg=
+
+Name: assets/html-ko/scanning.html
+SHA1-Digest: ywP+DbEZ0ohVo5lzjeZ9QcBNXoo=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: Frh8AW9iLDxmahoCdZryg8xY5oU=
+
+Name: kotlin/AssertionError.kotlin_metadata
+SHA1-Digest: eU2E3xoWe1goMjcTORThNdLXDKk=
+
+Name: kotlin/text/Typography.kotlin_metadata
+SHA1-Digest: tbCKqM1PqgV154z7pNxtIhwSl3c=
+
+Name: assets/www/tutorial.html
+SHA1-Digest: YLA+a0a2iMLsocURbDjxy0dAxkA=
+
+Name: assets/www/img/en/Useful_Info_04.png
+SHA1-Digest: ewXaLOCBBs8/mpzE9FpdFSzM+pE=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: 1GfO/IDwwyLde/veo05ABQB5yTk=
+
+Name: assets/www/img/oggetto_vettoriale_avanzato_1.svg
+SHA1-Digest: 1VPhtB43y4VAFokayommV59Du30=
+
+Name: assets/html-ko/about2d.html
+SHA1-Digest: OVT83Scpo6uWG4qENfHpo46FwXc=
+
+Name: assets/html-zh-rHK
+SHA1-Digest: 1f07G3KmsNyZsqzZUuNXZNoTZ4s=
+
+Name: assets/www/img/PINON.png
+SHA1-Digest: hD/nKqJLc98oh2sC0/PjvPm/QAs=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: PNU8KH75uDnDUuyJwEidxSRzvSI=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: WS8tqvT8dx29VnfFrkPJYeFXr2o=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: YPZ5nRQSL/pafG99Ph9LEYyEX/o=
+
+Name: assets/html-fr/license.html
+SHA1-Digest: 3wy8H0PZgJbjiNVAVUief9GYN20=
+
+Name: kotlin/jvm/Volatile.kotlin_metadata
+SHA1-Digest: ohyKL2WzMvl2hoS47Ys0MDdOFtg=
+
+Name: assets/style.css
+SHA1-Digest: mz3OOTBbhVFQXSLQ7lKg7YhrQbA=
+
+Name: kotlin/coroutines/experimental/SequenceBuilder.kotlin_metadata
+SHA1-Digest: IO8DYUvKgVY6PEfPuzlQ9yxUC4k=
+
+Name: assets/html-pt/license.html
+SHA1-Digest: USYBAY3XNzVH047SFqHckcpqu3U=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: +Sta2WOccafhjLq+7a2ncWkMbhc=
+
+Name: kotlin/text/StringBuilder.kotlin_metadata
+SHA1-Digest: Q6XSp5Q+EzPasPdab8PQk7oErjU=
+
+Name: assets/www/fonts/Roboto-Regular.eot
+SHA1-Digest: LkHM8gjTIlYCEAfdYdxdvhfeNys=
+
+Name: res/layout-land/share.xml
+SHA1-Digest: Z87jpUcJEAq4laplWyqfZxMVmpg=
+
+Name: assets/images/demo-no.png
+SHA1-Digest: xUe7SgAVIPSaeo20Sv9xwSNfkak=
+
+Name: kotlin/text/CharKt.kotlin_metadata
+SHA1-Digest: rlZxYdUUHKv1fQ5NEcWHxPKoeZU=
+
+Name: assets/www/img/scart.svg
+SHA1-Digest: 3ttyY++XtLXolfvb5Gr3myMEPLg=
+
+Name: assets/html-ko/about1d.html
+SHA1-Digest: MLhI9HnzID7DVuawgDWfis2nswA=
+
+Name: kotlin/UnsupportedOperationException.kotlin_metadata
+SHA1-Digest: PEl2o9LAOU4IAXKXOnnSE3hXHPw=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: assets/www/fonts/Roboto-Light.svg
+SHA1-Digest: Q1kCY8dljNGkkSdzSo4VeJsfpns=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: OuPdHrGRTuKVbnKaNUfNzepj9O0=
+
+Name: firebase-auth.properties
+SHA1-Digest: MGxTbzYGbqjw2OxtmS7i1m+PxEE=
+
+Name: kotlin/coroutines/experimental/EmptyCoroutineContext.kotlin_meta
+ data
+SHA1-Digest: QrohLaUT0nMLME/Mn865y0MOXd8=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: frSc47IF8Olf80dOuU0w4tRmGac=
+
+Name: assets/html-fr/about2d.html
+SHA1-Digest: 45DWscZOsZr4uiUy1ew0vw+GS80=
+
+Name: assets/www/js/email_validation.js
+SHA1-Digest: BV0Z6xTlXtgTJTu5TcFF7jmsdeg=
+
+Name: assets/www/css/slider.css
+SHA1-Digest: +v/Xq5pdmIWWjNTiD303cKaKaq0=
+
+Name: assets/www/contact.html
+SHA1-Digest: hmu1hTwh2TqgmcTOVY3lwG2irTg=
+
+Name: assets/www/img/disable-icons/menu-wallet-icon.svg
+SHA1-Digest: hWPGz8Gnsx7slepf2Jnp7SoVjlU=
+
+Name: res/menu/encode.xml
+SHA1-Digest: wouMQ1e+sfKL6eVKbUyloDg3Ke8=
+
+Name: assets/www/js/private-wallet.js
+SHA1-Digest: zEdF0mJYiuVQMNlk6qWdF29mxmw=
+
+Name: kotlin/text/MatchResult.kotlin_metadata
+SHA1-Digest: SwUm5scZG+jbcz0iGDPhO/MNEpI=
+
+Name: kotlin/collections/AbstractMutableMap.kotlin_metadata
+SHA1-Digest: guog5DiVivsvoH7FsitZRtSPZo0=
+
+Name: assets/www/img/manualHand.png
+SHA1-Digest: WYTvm+Z0H5B52mSOLeYuMlPkRIc=
+
+Name: assets/www/js/creditCard-confirm.js
+SHA1-Digest: qMbjsU9HnYjqNrpgXWhE4QK5+x4=
+
+Name: assets/www/fonts/Roboto-Light.woff
+SHA1-Digest: mqlh2FZLxAYaZ6OLLFr19l4aGC4=
+
+Name: assets/html-zh-rTW/about2d.html
+SHA1-Digest: +Apk17r3jFEbxAPDoIqPV5w+euM=
+
+Name: assets/www/img/tri-img-home.svg
+SHA1-Digest: IX9YLtB+uvlQqTAS6rB03EkTX2c=
+
+Name: assets/www/js/terms&Conditions.js
+SHA1-Digest: mbV83I+nlW3JwmeX5/L/yEclaI8=
+
+Name: assets/www/img/logout-icon.svg
+SHA1-Digest: 8Bk2z+MpCPiNzvcDNKuzfIsIZDY=
+
+Name: assets/www/plugins/cordova-plugin-sim/www/android/sim.js
+SHA1-Digest: 9SGomz5cXsp3Sx4Ho5bYK/AhkA8=
+
+Name: assets/html-ko/license.html
+SHA1-Digest: tuOwl4wcPeTITuidd+t9cmLR1tQ=
+
+Name: kotlin/collections/AbstractCollection.kotlin_metadata
+SHA1-Digest: 9AsInLeI42zQ0KpHAYxNLRg1jEg=
+
+Name: assets/www/r-css/style.css
+SHA1-Digest: JB4Meqvew+FNGZ1haiturKJIiCU=
+
+Name: assets/www/img/gotoQR.png
+SHA1-Digest: pGn+R28UDHE5RxFZFTkH5/vJpYo=
+
+Name: assets/www/js/my_area.js
+SHA1-Digest: L4NgW9PZuhNDUYebARdBNsjAlcM=
+
+Name: assets/www/js_ext/owl.carousel.js
+SHA1-Digest: 5VGnYx3Bast91rfz6WfcNCxRbKU=
+
+Name: kotlin/coroutines/experimental/intrinsics/IntrinsicsKt.kotlin_me
+ tadata
+SHA1-Digest: atd1YVq60g7t8QROIy+1sOe7tdY=
+
+Name: assets/www/ex-css/multilevelmenu.css
+SHA1-Digest: RVrRqrD8KUXRuWKAEbCNOqBgBn4=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: bm7nWnwa1UNH6j+JcfIoFfTVA4E=
+
+Name: kotlin/sequences/TakeWhileSequence.kotlin_metadata
+SHA1-Digest: 17dd/A/G3hyrJg8BFwgngr9gmdc=
+
+Name: assets/html-ja/scanning.html
+SHA1-Digest: lf6y4e5u23uwhD0+PEj6M1GHmW8=
+
+Name: assets/www/js/close_walletConnection.js
+SHA1-Digest: abbVwVJg117Ra8HwNw3e4mhi5VE=
+
+Name: assets/www/my_area_details.html
+SHA1-Digest: 5CiSrq+ng7sg0Wnn+0+RI6kr6uc=
+
+Name: assets/images/demo-yes.png
+SHA1-Digest: XCPIRnVwK6/4r+jQCR9OzrmB4Q0=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA1-Digest: 9zhp42zkAn1uX9deAfG1ve7pabY=
+
+Name: assets/html-zh-rTW/license.html
+SHA1-Digest: zspcDcZleYTUXeVBXdIrXH8M3g8=
+
+Name: assets/html-pt/index.html
+SHA1-Digest: m66mbJDd6Jz98Zjp3L7QX3RTs2A=
+
+Name: assets/www/fonts/Roboto-MediumItalic.ttf
+SHA1-Digest: df65Kn/GHQDoymEKcANEc471rjI=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: lXbR9F3v3qWrl2hUyno7ejHTa/g=
+
+Name: assets/www/ex-js/modernizr.custom.js
+SHA1-Digest: 3vGPLX0CgkFfevljeGQDh1O8FKM=
+
+Name: assets/www/img/es/Useful_Info_02.png
+SHA1-Digest: bTjsWqPJKbAYq5vSETzvhZBYbPQ=
+
+Name: kotlin/Error.kotlin_metadata
+SHA1-Digest: 1U8+8taxFR9Qe4TJ7QiXLLoG7dg=
+
+Name: res/drawable-mdpi-v4/ic_action_next_item.png
+SHA1-Digest: I11kR9J8D1ym6/6IDHX2g/nVzNc=
+
+Name: META-INF/gradle-plugins/com.google.gms.google-services.propertie
+ s
+SHA1-Digest: cEpVipO+EN2k8zkMrBvCqaGeSJg=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: QWNxEibXctHKdimj4nbvZC5eWLc=
+
+Name: kotlin/sequences/TransformingSequence.kotlin_metadata
+SHA1-Digest: OW8CgaX5PDsb96uTdW06gXW8xz0=
+
+Name: assets/www/setting.html
+SHA1-Digest: Ol8wUZIGwSqTqye+5DP/nb+VENg=
+
+Name: assets/www/r-css/switchy.css
+SHA1-Digest: 765AbsmVVTeM7VN1PB+4bFhhI5M=
+
+Name: assets/www/js_localizations/MPResources.ca-CA.js
+SHA1-Digest: nbyhb8n6jqMvzgMbsymh5iU1nN4=
+
+Name: assets/www/ex-js/jquery.dlmenu.js
+SHA1-Digest: nEjg6T16ro2t7EepfnWjZFFgZgk=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: A7BC4etS9bFIzKKjf8xg4jH3oqM=
+
+Name: kotlin/sequences/DistinctIterator.kotlin_metadata
+SHA1-Digest: JIGNV+wuIajixPZJxy/Ke3oR+Mc=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 1X+zxf28Nny7aOkIHQF77KboqLs=
+
+Name: assets/html-it/whatsnew.html
+SHA1-Digest: gnUVk6NTCMh438BeCFhKF5hg9xQ=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: assets/www/plugins/cordova-plugin-sim/www/sim.js
+SHA1-Digest: ClFcxSc++1+co21X98ODwFS+dYA=
+
+Name: assets/www/img/ivs.png
+SHA1-Digest: zSFoimP1h/rzBobvgmBFSLdb9Wg=
+
+Name: assets/www/plugins/phonegap-plugin-mobile-accessibility/www/Mobi
+ leAccessibilityNotifications.js
+SHA1-Digest: MCFlTMUsV6QqhFz5cw9mWYctoFY=
+
+Name: META-INF/strict-version-matcher-plugin.kotlin_module
+SHA1-Digest: K/E8VB9JQpUj0aLchcXKgMeJhKY=
+
+Name: assets/www/plugins/cordova-plugin-secure-key-store/www/SecureKey
+ Store.js
+SHA1-Digest: 9Yj+90RhAPzkrsJWAcG2hdnbqOo=
+
+Name: assets/www/img/en/Useful_Info_06.png
+SHA1-Digest: Yj4ZuUicKCRb7kZm2RFHbGmaamw=
+
+Name: assets/www/login.html
+SHA1-Digest: XMUu5/ByiwKVE2ljAGga2yR2ZoQ=
+
+Name: assets/www/img/contact-icon.svg
+SHA1-Digest: bHj4bGMivieafwM4ReMq6RdadqQ=
+
+Name: kotlin/coroutines/experimental/SafeContinuation.kotlin_metadata
+SHA1-Digest: v8sK7EA1Gua+X/EmqjfY3dcL6bk=
+
+Name: res/layout/search_book_contents_list_item.xml
+SHA1-Digest: zPILsW7b3yCSBFsHetUz+Ecm0BE=
+
+Name: assets/www/js_ext/swiper.min.js
+SHA1-Digest: qkyFxmaTC89yc5NYOg+S97jA6Hk=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: 4rhPmlFLSgNzEgU+dEAAHibWa/g=
+
+Name: assets/html-de/index.html
+SHA1-Digest: hVNtGRBILqSnc9deHvO4kjzsfUo=
+
+Name: assets/www/img/ges.png
+SHA1-Digest: V2n92PjvKmXno5hSRFGeOAHI9h4=
+
+Name: assets/www/ex-js/pagetransitions.js
+SHA1-Digest: UzMpDGd3NjYJKVVTUL53aCTwD4Y=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: 3EZx9m1jCimPO1dVM6+jrb8RGuk=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.woff2
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: inKyhhyZgO65645KR/OH06l6dAc=
+
+Name: kotlin/InitializedLazyImpl.kotlin_metadata
+SHA1-Digest: RC8WMTiaOJxF6SWL5X1KkN9mxSE=
+
+Name: assets/html-zh-rTW/about1d.html
+SHA1-Digest: VqTfbhqGq1fJxGTUTCbyqmB6Kgc=
+
+Name: assets/www/img/wallet-icon-s.svg
+SHA1-Digest: Qr/Zl4WwxoeiGFcrzwF4gPKHZAg=
+
+Name: kotlin/NotImplementedError.kotlin_metadata
+SHA1-Digest: pVj632DerdtfvHM3rtTPY5RJeWc=
+
+Name: assets/www/img/contact-icon-title.svg
+SHA1-Digest: qdcPH15No6a0PCun+qVXbQDYj/4=
+
+Name: firebase-iid-interop.properties
+SHA1-Digest: yw7JpiLFQFanGy3+DENv/uNDKyI=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: assets/www/js_ext/swiper.js
+SHA1-Digest: P0SxA3j1prCCXt2SK6bttrmz1w4=
+
+Name: assets/html-fr/scanning.html
+SHA1-Digest: A9UZehQnCibrZ110gkXDRDqUWz0=
+
+Name: kotlin/collections/AbstractSet.kotlin_metadata
+SHA1-Digest: eRffHZm+br4s7zelgYNqviHDiqs=
+
+Name: kotlin/collections/MovingSubList.kotlin_metadata
+SHA1-Digest: dUxXwcaYkhl0pS6w69Kf79Qxwu0=
+
+Name: kotlin/internal/AccessibleLateinitPropertyLiteral.kotlin_metadat
+ a
+SHA1-Digest: Fjso+Pw/Nvl3XzVRJDln19K2vQU=
+
+Name: kotlin/text/RegexOption.kotlin_metadata
+SHA1-Digest: KvmaIutEhje3vtn6t7saPwn+cIk=
+
+Name: assets/www/img/es/Useful_Info_01.png
+SHA1-Digest: 0pUhtJC2ZURgyd2wAxuV/hfyF6c=
+
+Name: assets/www/js/wallet-topup.js
+SHA1-Digest: 2MJj0wOrr1AeJ/sTxV4QliEmrsg=
+
+Name: assets/images/big-1d.png
+SHA1-Digest: tc7H9IIybT4WdWlNk2EBtSyx0+s=
+
+Name: kotlin/internal/contracts/ConditionalEffect.kotlin_metadata
+SHA1-Digest: T83a1kJ6ifbtV+RVMPT8/O5nA64=
+
+Name: firebase-messaging.properties
+SHA1-Digest: IiYUBP+uK5fxPL5E4QhEK2ZNt+w=
+
+Name: kotlin/sequences/ConstrainedOnceSequence.kotlin_metadata
+SHA1-Digest: 4zbo+8ZcVDcxmjAhfy9KLzqEGJg=
+
+Name: kotlin/SuspendKt.kotlin_metadata
+SHA1-Digest: 0j43HB6LvOUFycxCCT0rs/Lha+o=
+
+Name: res/layout/history_list_item.xml
+SHA1-Digest: Stv2L9rzgIZWaD2HlwY/g8ffZvc=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: assets/html-en/scanning.html
+SHA1-Digest: aENLrw5dFOFmGB+h+XGsrGo/Zoc=
+
+Name: classes.dex
+SHA1-Digest: vwoaZwb03aackhmW7VDo/dLJiRc=
+
+Name: kotlin/collections/MapWithDefault.kotlin_metadata
+SHA1-Digest: dhJQS+0iQkl2tuHUka4pUO2Jrns=
+
+Name: assets/www/img/fr/Useful_Info_01.png
+SHA1-Digest: UlbuItdYcFjN07bS+ExQyjZ86Hg=
+
+Name: assets/www/fonts/Roboto-Light.eot
+SHA1-Digest: /RD2O6P0Bc8pNmGS6cgRq7JzJ90=
+
+Name: assets/www/plugins/cordova-plugin-datepicker/www/android/DatePic
+ ker.js
+SHA1-Digest: N6JMwKE15xnVjkVDusSOgufZuQY=
+
+Name: assets/www/email-validation.html
+SHA1-Digest: QR0NKF4GE5xtqLDcINVUJflWinA=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: assets/www/fonts/FontAwesome.otf
+SHA1-Digest: zenrksijuiPWSPduo5MVEfMIE/Q=
+
+Name: assets/www/img/flags.png
+SHA1-Digest: Y6tMJclOVYuntaFY5YuU1iGW3RQ=
+
+Name: assets/www/wallet-topup.html
+SHA1-Digest: xme2/XzMf0hKUexIeMstvUoQmWU=
+
+Name: assets/www/fonts/Roboto-Medium.ttf
+SHA1-Digest: rbw73kJLz328OPFIAFyDGYJYkfI=
+
+Name: assets/www/img/gift-ic.svg
+SHA1-Digest: 2nxrQ3Mv6mYMtUdQ9YqL4ZkIOSc=
+
+Name: assets/www/css/swiper.min.css
+SHA1-Digest: aQNYHusGnWkA3+UrJH5wF/kusFQ=
+
+Name: res/drawable-xxhdpi-v4/launcher_icon.png
+SHA1-Digest: MlD9tpiFQfXpqfMz9s2Q+lCU9os=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA1-Digest: Dxpb/WdUTUSl/LBwNEp4375xE5o=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: kotlin/sequences/FilteringSequence.kotlin_metadata
+SHA1-Digest: zNaQsdB/t6o2uThYOl5wtMpKdpc=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: P/wxkPCZpWlDXn4V4hSETB1GR4s=
+
+Name: assets/www/img/es/promo_pop-up_ES.png
+SHA1-Digest: j8DBobaXaZsQ1NdtXR+OK17yKRU=
+
+Name: kotlin/text/RegexExtensionsKt.kotlin_metadata
+SHA1-Digest: QVACvuaywt5jrbRfFDPMrbAYblg=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: f7p1rHw6kBqunadJYz5vUi7ZElM=
+
+Name: assets/html-es/whatsnew.html
+SHA1-Digest: 7IRHcyCYjzFuV97+i29xkkAiun4=
+
+Name: assets/www/r-css/jquerytop.css
+SHA1-Digest: 8s6KLwPu/t/fgoKt/rXg88EYMtA=
+
+Name: assets/www/img/scart-n.svg
+SHA1-Digest: qUJfA4D+3yTvUTVVM8Rw0592XiQ=
+
+Name: assets/html-it/sharing.html
+SHA1-Digest: XVvSZeXzLP0Cwr4gnn+Eck07Gy8=
+
+Name: kotlin/PreconditionsKt.kotlin_metadata
+SHA1-Digest: e1l8L1uxMJcSQpx2Djasih4wMi0=
+
+Name: assets/images/scan-from-phone.png
+SHA1-Digest: MU7z4DLLSmQxVDPocrpaf/78W5w=
+
+Name: firebase-analytics.properties
+SHA1-Digest: LzVBUMsSX+nFOEyAofPEcW3X0wk=
+
+Name: kotlin/KotlinHKt.kotlin_metadata
+SHA1-Digest: 7rS8MPFbWL1w4olmaonIb9uOXmE=
+
+Name: assets/www/css/custom-style.css
+SHA1-Digest: 2RTgv+PHhYPYbeuuXUW0NmLO2Gk=
+
+Name: resources.arsc
+SHA1-Digest: sPBuIo9cfdht4JwOvvamQcs0/J0=
+
+Name: kotlin/collections/CollectionsKt.kotlin_metadata
+SHA1-Digest: bmslDg8LPbADwwo2r0tsHwCefDU=
+
+Name: kotlin/RuntimeException.kotlin_metadata
+SHA1-Digest: 8vgNPmxtGQTm1c2Zbb1PCEXjLMY=
+
+Name: assets/www/ex-css/default.css
+SHA1-Digest: 7JHBHm7LuzUSmRXiaCIAEAS5U8I=
+
+Name: assets/images/big-datamatrix.png
+SHA1-Digest: 3y+fNfHQrXdV46JXijJ0Crpqbk4=
+
+Name: kotlin/StandardKt.kotlin_metadata
+SHA1-Digest: WN80oWNuMh33VO+mc3xQ2wijHkI=
+
+Name: assets/html-en/sharing.html
+SHA1-Digest: A4uupZg04VMdkeT2+H4Fo3FGxo8=
+
+Name: assets/html-zh-rTW/sharing.html
+SHA1-Digest: CQ6WyVPAM3RdUPGQR/IUAILVDqQ=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: cuJ+cwlm5QO6frAFAjbS9w6zhJ4=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: DzNP8yo4sxceiQ9knIBCG9C1QCE=
+
+Name: kotlin/text/IndentKt.kotlin_metadata
+SHA1-Digest: 0lHWNjklij66rqBv0OSI6gwvHkM=
+
+Name: kotlin/sequences/GeneratorSequence.kotlin_metadata
+SHA1-Digest: wDnTlEO/Qz6If+fVEjn62GZI3ZE=
+
+Name: assets/html-ko/whatsnew.html
+SHA1-Digest: SABwuYBCTAs6ZGTsaCV5Zlog1EM=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: 3tdz5EG8loM6x1NcthmM1mK3wLY=
+
+Name: assets/www/img/logo-w-hm.svg
+SHA1-Digest: IykHjZSMNJ+zh2Mx0yaElJswpVo=
+
+Name: res/drawable/notification_icon.png
+SHA1-Digest: 90JLKAuhv15Ec/EkwA6PkMnq5uc=
+
+Name: kotlin/ranges/RangesKt.kotlin_metadata
+SHA1-Digest: LbPhcksopI9bkW+saTH2y7kYfHM=
+
+Name: kotlin/collections/MapsKt.kotlin_metadata
+SHA1-Digest: Dpy3ugKlfFzJ4Z7OU+OOx0ewnFY=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: 0Psf0sQcB3zKAU5JkKaOSAMrcws=
+
+Name: play-services-analytics-impl.properties
+SHA1-Digest: acVKgQfB40cVJGHLxhfjWMwuqlI=
+
+Name: assets/www/img/it/Useful_Info_01.png
+SHA1-Digest: GO3ev7+D0wNwKyY0ZPaPzr50+wo=
+
+Name: kotlin/experimental/BitwiseOperationsKt.kotlin_metadata
+SHA1-Digest: 0WRbxilXVjM77M7yUzF+FT8MqlQ=
+
+Name: res/xml/emailcomposer_provider_paths.xml
+SHA1-Digest: WZa6pGxL9Pdauj5/S3WCiXqmSiU=
+
+Name: assets/www/img/bottom-crn.svg
+SHA1-Digest: YsQXXaKVRgnbwZCSWVoleJwK09o=
+
+Name: kotlin/coroutines/experimental/SequenceBuilderKt.kotlin_metadata
+SHA1-Digest: fFZzeLSN54FxCL5HaRhUc8esttY=
+
+Name: kotlin/ExperimentalMultiplatform.kotlin_metadata
+SHA1-Digest: 7CdLXdamZnYyiKsJ+yIGCGLO6k8=
+
+Name: play-services-tasks.properties
+SHA1-Digest: YPWE9OjtoD7Xk3LDxn8SanBA9cc=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: 7NPPLIAc5QzEK09bYQStupu/S08=
+
+Name: assets/html-de/license.html
+SHA1-Digest: n1wn0GoPF0D5LOHBoC3M6GfLDVs=
+
+Name: kotlin/internal/contracts/ContractBuilderKt.kotlin_metadata
+SHA1-Digest: 5mP9Gu1yQuzw47fI0AhBy7Ph5Ok=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: assets/html-ru/whatsnew.html
+SHA1-Digest: g0mcEga+0lTqoPBN+z92PW+hzKc=
+
+Name: firebase-analytics-impl.properties
+SHA1-Digest: ytXDchDChBeo07xJXA7UtzVMOgc=
+
+Name: assets/www/wallet-confirm.html
+SHA1-Digest: 7MhIZWYD2C3CBnC2GyVKAteORA4=
+
+Name: assets/www/js/login_promo.js
+SHA1-Digest: gU9++bXVpb3iXPg9eSKJrSfzoyA=
+
+Name: assets/www/img/loader.gif
+SHA1-Digest: GuWCdleTVvSaf5Z1q+xZ/2qlsdQ=
+
+Name: kotlin/coroutines/experimental/AbstractCoroutineContextElement.k
+ otlin_metadata
+SHA1-Digest: YsSSQtM3x2EX/pF4OjNfvy9fd/s=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA1-Digest: 2rriz6PMcAhKrrio87b1EUWiCNs=
+
+Name: assets/www/img/popup_close.svg
+SHA1-Digest: nngeeVB1hZKTkpLbJUzJ3cWb6K8=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: USD/NdxtXBd9wpA78q57rIlaF8k=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: GFdSQfwzantxfJq2XIefECnvqZg=
+
+Name: kotlin/ConcurrentModificationException.kotlin_metadata
+SHA1-Digest: TS8SI2otnNe1f+GQEqU80ysqkEM=
+
+Name: assets/www/img/disable-icons/logout-icon.svg
+SHA1-Digest: hWH40RrDD6YRK+IW72CAWXLDLv4=
+
+Name: kotlin/collections/ArrayAsCollection.kotlin_metadata
+SHA1-Digest: Yi0fYOr9fehBcAEdZtqTf7l8pHA=
+
+Name: assets/www/js_common/jquery.nicescroll.min.js
+SHA1-Digest: C7o+ibs0a5ea92MBk41WYMx1rhY=
+
+Name: kotlin/sequences/SequencesKt.kotlin_metadata
+SHA1-Digest: KTYH+FpjJb8Ho2vpOSdy7O0Dzho=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA1-Digest: YWT3Hu0c24Wx6GE5EQWO6lX0T2A=
+
+Name: assets/www/privacy.html
+SHA1-Digest: Ga32NtkFKQb/O0X+hcyWYkUHHOY=
+
+Name: assets/html-zh-rTW/index.html
+SHA1-Digest: Zq2xoSrqiH6iRzrE0X5AWdbiPeo=
+
+Name: assets/www/js/creditCardInfo.js
+SHA1-Digest: o9zD67SHk1FMydrdNjJJ2Ar7BGY=
+
+Name: kotlin/collections/SetsKt.kotlin_metadata
+SHA1-Digest: d7H2D+XcoygDOAQd/ney/6QgitM=
+
+Name: res/drawable-mdpi-v4/ic_action_remove.png
+SHA1-Digest: nKigmEPh2ytFH29tSmzdel83ejA=
+
+Name: assets/html-en/about1d.html
+SHA1-Digest: 9RStKe1zcm5xZDAn+/RDRyXFs+Y=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: Q8+/UkxxAdzHEbStCy6gP5wz9Ww=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: mCUuEa0lrmVMHoeQOLac6bNn7Sw=
+
+Name: assets/www/img/gls-s.svg
+SHA1-Digest: nIh2oqKUWSn1JWYo50wcHxOgAGM=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: bsfgc/1xs7uUHKj3AzwfEQmzACM=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: kotlin/collections/CollectionsHKt.kotlin_metadata
+SHA1-Digest: U3mec4Le0SNsPWirjLGMEyHNXpo=
+
+Name: assets/www/fonts/fontawesome-webfont.svg
+SHA1-Digest: JrscXvEAoc1xkj8dXcKfx5fvRjk=
+
+Name: assets/www/js_localizations/MPResources.js
+SHA1-Digest: B/7NgtaJDqU8gMk9KFuPm08J6pM=
+
+Name: play-services-tagmanager-api.properties
+SHA1-Digest: P1+yF5a4yKt4uz3z/TDMfCVwdiE=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.svg
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+
+Name: assets/www/js/favourites.js
+SHA1-Digest: 2okRTy5IPyUQJa+4rCo6KH9i48o=
+
+Name: kotlin/collections/LinkedHashSet.kotlin_metadata
+SHA1-Digest: A3AIqrS6ipjZ9WEFR1yi6a4DwYQ=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA1-Digest: kJWGBYkmpyPo8tZlRKh0fttExxk=
+
+Name: assets/html-fr/about1d.html
+SHA1-Digest: fWyvQGLHBPZHn3NG8R55dEhkzak=
+
+Name: assets/html-en/about2d.html
+SHA1-Digest: xdqPfREn+1dtFFbTLhXxOJV/S2k=
+
+Name: assets/www/js/index.js
+SHA1-Digest: 3roPPmIdALSgRMK/nGSLqgcLG10=
+
+Name: res/drawable-mdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: S0ZpKklATh57RGckBxjIOYATXVU=
+
+Name: kotlin/collections/ArrayList.kotlin_metadata
+SHA1-Digest: A4R7f2ZNTNDCrveB2HLJCRWyjkY=
+
+Name: kotlin/collections/ReversedList.kotlin_metadata
+SHA1-Digest: f+oFQqZy/6syV3zNMpCKkOZqdb0=
+
+Name: META-INF/kotlin-stdlib-common.kotlin_module
+SHA1-Digest: ijzYSKAT+vzPr+DxrxD3bayyGs8=
+
+Name: assets/www/img/new_tag.png
+SHA1-Digest: CIr4IM8dx3Me2oLznI1ltIgeYBU=
+
+Name: res/drawable-mdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: BEW+rJtfFQu8wxetRm0dBxGmVJ8=
+
+Name: assets/www/img/it/promo_pop-up_ITA.png
+SHA1-Digest: KvQ34F1qViBcqPGIVukDdysf+fk=
+
+Name: assets/www/img/es/Useful_Info_03_back.png
+SHA1-Digest: VAHunblkJDkbaaCU3b86R9LGWVU=
+
+Name: assets/www/img/wallet-icon.svg
+SHA1-Digest: VM7wzTEP+8vTF3qDYXksX+bgZuA=
+
+Name: kotlin/collections/HashSet.kotlin_metadata
+SHA1-Digest: jcd/XoE0yUaT9aqbLw2eer0jDHY=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: kotlin/sequences/EmptySequence.kotlin_metadata
+SHA1-Digest: FTDatZTyGK4JgpMfCyEUYY5Rt4w=
+
+Name: res/drawable-hdpi-v4/launcher_icon.png
+SHA1-Digest: iVHDihAYGqlE8RRPIQufSqvgtww=
+
+Name: kotlin/ranges/ComparableRange.kotlin_metadata
+SHA1-Digest: MxFWVFxFzhbsatqKaEmSVvx+eKs=
+
+Name: assets/www/survey.html
+SHA1-Digest: 8WAsnFjagSXApDlWWgNxnHfS198=
+
+Name: kotlin/TuplesKt.kotlin_metadata
+SHA1-Digest: 5OFCG2pUClCKkF1pKNSHhiHOouM=
+
+Name: assets/www/js_localizations/MPResources.fr-FR.js
+SHA1-Digest: nCROZm4NYaSEj153rG2bZwPJC9k=
+
+Name: assets/www/css/font-awesome.min.css
+SHA1-Digest: jBXGvYLHHp7xuxHPJOUC/gdRisU=
+
+Name: assets/www/img/it/Useful_Info_03.png
+SHA1-Digest: cz1CHj8Pbxy1DSbiHvNHFlwmD0s=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: VKHazGK60oUyuXXEKDQwz/GvZx8=
+
+Name: kotlin/io/Serializable.kotlin_metadata
+SHA1-Digest: xzu+sPeKUK10Cqm/6tGFUqkQKY0=
+
+Name: assets/html-it/license.html
+SHA1-Digest: W3CXp/noIQKvcMJb0pPZFtnXjP8=
+
+Name: assets/www/faq.html
+SHA1-Digest: /Q2aO/kTr1puUtrDH+0Byem7xiw=
+
+Name: assets/www/slick/slick.css
+SHA1-Digest: wORM6O/Wfgytkmw1CsIHe++WAKU=
+
+Name: assets/html-it/about1d.html
+SHA1-Digest: Z/zZV4XX10v14YafbyLeZDVPadI=
+
+Name: firebase-iid.properties
+SHA1-Digest: Z6US51bi/dxNcLFtl7p5DRNWkOY=
+
+Name: kotlin/UninitializedPropertyAccessException.kotlin_metadata
+SHA1-Digest: XR7rA5al0iBNXP+dqxScVC5HJlI=
+
+Name: kotlin/coroutines/experimental/RestrictsSuspension.kotlin_metada
+ ta
+SHA1-Digest: rv6WilwkcrA776Jz02rg2vJH/T4=
+
+Name: kotlin/sequences/TransformingIndexedSequence.kotlin_metadata
+SHA1-Digest: 8TPokerBCoERlJPdshp3OtFMxC8=
+
+Name: assets/www/plugins/cordova-plugin-sms/www/SMS.js
+SHA1-Digest: 4OdhnOdyK/Pa8R0+bDXWsyNWkg8=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: 1eWl0kIiC3mj6N8is5Uk44jyABY=
+
+Name: kotlin/ranges/ClosedFloatingPointRange.kotlin_metadata
+SHA1-Digest: fb8eZWUNfLN9KpXhxm8WUjWUzGU=
+
+Name: assets/www/fonts/Roboto-Regular.ttf
+SHA1-Digest: HR1B/K3Fcd7LZEQhG3mTuZzpJuI=
+
+Name: assets/www/favourites.html
+SHA1-Digest: 0OEtfov1sK7W+qBeVUNezBz3fwo=
+
+Name: assets/www/img/qr-code.png
+SHA1-Digest: fuOieXOrPexky7WwGZKL2B3xBpg=
+
+Name: assets/www/plugins/phonegap-plugin-barcodescanner/www/barcodesca
+ nner.js
+SHA1-Digest: SFQV+dR09bji5PaT1x6O4u0sow0=
+
+Name: res/drawable-xhdpi-v4/launcher_icon.png
+SHA1-Digest: eYU6lXFPGix2zcBixGe3PhD3J4w=
+
+Name: META-INF/gradle-plugins/com.google.android.gms.strict-version-ma
+ tcher-plugin.properties
+SHA1-Digest: RYwo1j9xDq2miTXrwdbcxmhxw6M=
+
+Name: assets/www/img/heart-icon.svg
+SHA1-Digest: tsiZNwoCuX9dDBCuju2QVLl0ktA=
+
+Name: assets/html-it/about2d.html
+SHA1-Digest: b0bgakZ1k+aDxjRv9X0nm/ULbd4=
+
+Name: kotlin/collections/IterablesKt.kotlin_metadata
+SHA1-Digest: UR6G3Yl0r+azm/+bUuu5GX7GtTc=
+
+Name: assets/www/js/registerSignup.js
+SHA1-Digest: RXYNkWkJVfv1pXl9/L0j0Gsit7Y=
+
+Name: assets/html-it/index.html
+SHA1-Digest: uoc/VFu0skJnPN1mKKRGHnX8osQ=
+
+Name: assets/www/js/usefulInfo.js
+SHA1-Digest: zFMobuq+voni/04vvEYEWUfZNYM=
+
+Name: kotlin/collections/GroupingKt.kotlin_metadata
+SHA1-Digest: zODp+BG7fhX7wHd79L0/UN2ogPo=
+
+Name: assets/www/fonts/Roboto-LightItalic.ttf
+SHA1-Digest: aTRF9B6qdQt4mndWj51tmV6F4LI=
+
+Name: assets/www/img/half-gls.png
+SHA1-Digest: qRNovBbt8RKdSJ1G06hMB6uKVys=
+
+Name: res/drawable/toggle_torch.png
+SHA1-Digest: mAQm4tmkwA2rDv9d93EdU5HjCrs=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA1-Digest: +Sta2WOccafhjLq+7a2ncWkMbhc=
+
+Name: assets/www/fonts/Roboto-Bold.woff
+SHA1-Digest: 5/HwFnDXI+JhmMlat+s27vVHI88=
+
+Name: kotlin/IllegalStateException.kotlin_metadata
+SHA1-Digest: M72IIrh2p96JqUZ4+67gYGMcGzE=
+
+Name: assets/html-fr/sharing.html
+SHA1-Digest: 7IQwn/16klgQL1luVvsT5Hy9RBM=
+
+Name: assets/www/fonts/Roboto-Medium.eot
+SHA1-Digest: AVussZ7vYjkfviuEhvcZMGIuuX8=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: ZoyzYjOu5PzCZXcnbcrqXGqj5iY=
+
+Name: play-services-phenotype.properties
+SHA1-Digest: NcYE+qLKXuTNdNAcAFXLSG0teb0=
+
+Name: kotlin/internal/Exact.kotlin_metadata
+SHA1-Digest: Pxe5yU3UnH8LhpW4DpnfMrYbpRM=
+
+Name: assets/www/js/pin_validation.js
+SHA1-Digest: pbgxLZBvnNW1PGw5CwtTDfdybL4=
+
+Name: assets/www/img/www _icon.svg
+SHA1-Digest: pjj1YZvX/Rr5hM+CE4+ttY7CrY4=
+
+Name: assets/html-de/about2d.html
+SHA1-Digest: rJGq0XrcVUhI5JtBvQgqDezZ3cc=
+
+Name: assets/www/js/issue_reporting.js
+SHA1-Digest: cx8y0M2QPc1yx09pbcH5DBJkzzI=
+
+Name: assets/www/js_ext/jquery-1.11.1.js
+SHA1-Digest: F5fXPp2kKHNR9vvsGxg8Gb4hfCo=
+
+Name: assets/www/img/hand-click.svg
+SHA1-Digest: fdzUis1NU4xYrg9atBhjQ5ITRig=
+
+Name: kotlin/properties/ReadWriteProperty.kotlin_metadata
+SHA1-Digest: Ei74zMoAU1LRlaeks0RDPuZ9bHM=
+
+Name: assets/www/js/my_area_postBonus.js
+SHA1-Digest: D0CllbsL8lTEMclwul/At3E3nCs=
+
+Name: kotlin/NullPointerException.kotlin_metadata
+SHA1-Digest: XlOE7S/U2KB6JK+tU+5w++zBBNQ=
+
+Name: assets/www/img/it/Useful_Info_03_back.png
+SHA1-Digest: vhWwKpoaRw4cqlhC3wnlU60ivn0=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: G1Ww/mCHtib978JEOHjn78h32+g=
+
+Name: assets/html-zh-rCN/whatsnew.html
+SHA1-Digest: IWpyw6KM9FFSbeax7cmVDu5OioM=
+
+Name: assets/html-es/sharing.html
+SHA1-Digest: jK4E6OepBK4WoS4GgECTsecx6wg=
+
+Name: kotlin/coroutines/experimental/SequenceBuilderIterator.kotlin_me
+ tadata
+SHA1-Digest: D6uaCCdbnGe4MbhYK2AmYZdyot8=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: +a/InSGo0lMLs6sL4IniO9hQpRs=
+
+Name: kotlin/NumberFormatException.kotlin_metadata
+SHA1-Digest: R9pJXTd89TTLYmk2mzwg7guulL4=
+
+Name: assets/www/js/last-transaction.js
+SHA1-Digest: XgbUr3IOZtsnJjwCGArOVnF8cHM=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: F+IUfHcCqv9L5y/TGjjJkIo/4Ag=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: HH1RPWWgPiXaRtZjDxJcte/esMk=
+
+Name: play-services-measurement-api.properties
+SHA1-Digest: mKXXD3Pkq07YHnKXOrrT/madCF0=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: sUpHK3abfitB+lR7ysNmAptLbo0=
+
+Name: assets/www/css/owl.carousel.css
+SHA1-Digest: 8SkBObt/qO33QS+bfKPegw79e2A=
+
+Name: res/raw/beep.ogg
+SHA1-Digest: GlIsg8mvi6v0saqDdV7ZN0KoFcY=
+
+Name: META-INF/kotlin-stdlib-jdk7.kotlin_module
+SHA1-Digest: 3YiSUX9XiOCf5JWO4Qsqw5NXDoE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA1-Digest: kieZ6iZ6OFU4p859oJQYCADvVuA=
+
+Name: assets/www/img/speech-bubbles-white.svg
+SHA1-Digest: MESrXDhbjEQyV3iasqsfUcQuIew=
+
+Name: assets/html-es/about1d.html
+SHA1-Digest: E9+Rd5BELsPTRGWOUjs8y/MoUf0=
+
+Name: res/drawable-hdpi-v4/ic_action_previous_item.png
+SHA1-Digest: 22hOl4hxhbk+vXL5yh1q/sikcuo=
+
+Name: assets/www/img/walletTopProcessing.png
+SHA1-Digest: HnYZcY82lCWy+KxfvOYRzv1mwOI=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA1-Digest: /iPbY6yHs+8POvzy0aqSe0ZvU3o=
+
+Name: kotlin/collections/AbstractMap.kotlin_metadata
+SHA1-Digest: I8MnhkD/aYxHQ1d4tPyFHk5Zeuc=
+
+Name: META-INF/kotlin-stdlib-jdk8.kotlin_module
+SHA1-Digest: q4MnTnUnE+oFpfRkM3oPgra0IWg=
+
+Name: assets/www/js/home.js
+SHA1-Digest: aQC7TEPPqCbXZdQoSx61YXpWH7s=
+
+Name: assets/www/register.html
+SHA1-Digest: J1n9DajgbyciWof2+pXipK1WKFk=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.woff
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+
+Name: assets/www/fonts/Roboto-Bold.svg
+SHA1-Digest: gQU5U8kVWUhXtUK+oGOXikh0uEI=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: Umzc5KadL5ShxIkkGeVCd5YwlFA=
+
+Name: firebase-auth-interop.properties
+SHA1-Digest: 7irqOTfzO8FWiW1ax62XXpGVGbU=
+
+Name: assets/html-nl/index.html
+SHA1-Digest: Vsb16Nsfo6Tiu+Qt4jcxPYwA/Uk=
+
+Name: kotlin/collections/AbstractMutableSet.kotlin_metadata
+SHA1-Digest: PZh3YsVBDAtOc5UbgQZaeQqkDTE=
+
+Name: assets/www/img/setting-brown.png
+SHA1-Digest: ZN1NVgXG5kydOowtqgmOur+X/5w=
+
+Name: assets/www/img/walletTopup.png
+SHA1-Digest: UnhzCL+yesIurW8jsYyFIbLjMnI=
+
+Name: kotlin/ranges/ClosedDoubleRange.kotlin_metadata
+SHA1-Digest: QqXd3j17QfUEgXXNvHJukBwoZpA=
+
+Name: assets/www/img/it/Useful_Info_02.png
+SHA1-Digest: Qo1u+/7lj18Acww0cm8SMWUYMrg=
+
+Name: kotlin/internal/NoInfer.kotlin_metadata
+SHA1-Digest: gv2Ps/y1KYN5W0uWp6tmbgjjYaM=
+
+Name: assets/www/creditcardInfo.html
+SHA1-Digest: 4jQx6cKc+wrywNKSEk5ipCWSZrY=
+
+Name: assets/www/img/back.png
+SHA1-Digest: j71UFAOBrb6Pkd0Bu5i+mIuUinI=
+
+Name: assets/www/plugins/phonegap-plugin-mobile-accessibility/www/mobi
+ le-accessibility.js
+SHA1-Digest: 5RsL6FgEDj6i2u4CoU7Dp9FRc+0=
+
+Name: assets/www/img/it/Useful_Info_05.png
+SHA1-Digest: P3vqfvsYaZvaTJJwRb0qN2SDq14=
+
+Name: assets/www/img/issueReporting.svg
+SHA1-Digest: tAWjr44C372SdXeCd5mqOYlUttQ=
+
+Name: assets/www/img/card-imgs.png
+SHA1-Digest: k1X64WF0QXWEg69ir0Q/phnNsHo=
+
+Name: kotlin/collections/RandomAccess.kotlin_metadata
+SHA1-Digest: iqb4um+BO/nmJMvhAnHO50rP44k=
+
+Name: assets/html-de/whatsnew.html
+SHA1-Digest: +B27TIC1k+muZkj3SS6qwCbxI6I=
+
+Name: assets/html/apache-license.txt
+SHA1-Digest: ffBZWXCZu33PJdKprt+vRGX3LY0=
+
+Name: assets/www/pin_validation.html
+SHA1-Digest: NlsGbnd74GQaETIZXO3RTVPuOBc=
+
+Name: assets/www/css/custom-loading.css
+SHA1-Digest: +f+kK+lHB+R0JSJxRNZWjnAcwtw=
+
+Name: res/layout-ldpi-v4/capture.xml
+SHA1-Digest: FqM1X1f9/j74LgelEf4o2j0lXAc=
+
+Name: assets/www/img/info-blue.svg
+SHA1-Digest: 4ko4yOyNIkpOdI4fx9HaABid1m4=
+
+Name: assets/www/css/jquery-ui.css
+SHA1-Digest: bkdlY8acSfM0hdR1p4EN7tYFk7A=
+
+Name: assets/www/js/close_creditCardConnection.js
+SHA1-Digest: l323ZtRHsg8KO0Mfv0jCo105ggw=
+
+Name: kotlin/math/MathHKt.kotlin_metadata
+SHA1-Digest: DfRvao9A7c5JpLElghtuSkGXEnA=
+
+Name: assets/www/slick/script.js
+SHA1-Digest: GnUz+WjBhwwz9xExZYFZd9Zi9CM=
+
+Name: assets/html-uk/about2d.html
+SHA1-Digest: IN7kLscqb/S2eLknF1DHOaZzkf8=
+
+Name: kotlin/comparisons/ReversedComparator.kotlin_metadata
+SHA1-Digest: 76KupWhO86kjnAA5+UbBJujrxfM=
+
+Name: kotlin/collections/EmptyMap.kotlin_metadata
+SHA1-Digest: ECu9y0Et5TrbKFKicrbbx7eBwYY=
+
+Name: assets/html-ru/license.html
+SHA1-Digest: x0DdB5WhepUVuwhj6ylZtUCjzyI=
+
+Name: res/drawable/share_via_barcode.png
+SHA1-Digest: GwYfwwWC7qHeuVQJHrU67ygT1+U=
+
+Name: res/xml/config.xml
+SHA1-Digest: p+QQ3omfLs5BxRxjvXV0M1IDjeQ=
+
+Name: kotlin/internal/DynamicExtension.kotlin_metadata
+SHA1-Digest: mN/tN8VuBIt2fGWhJVEwD7rgwJ0=
+
+Name: assets/html-zh-rCN/license.html
+SHA1-Digest: ZaTSJBJBivLxbMwCcfJmRKporZE=
+
+Name: assets/www/plugins/com.phonegap.plugin.mobile-accessibility/andr
+ oid/AndroidVox_v1.js
+SHA1-Digest: xnoedqLFBKy72vkRSfGTGpqb2dw=
+
+Name: assets/www/js_ext/jquery-asPieProgress.js
+SHA1-Digest: QsHpJc3w6upc6ycNZNnQtHYIiDc=
+
+Name: assets/www/js/importantNotice.js
+SHA1-Digest: 8nxZYKHotFpd0HsipHKKOxh3GD4=
+
+Name: assets/www/img/fr/Useful_Info_05.png
+SHA1-Digest: vnqEEfZIsN3gA07C7rE5HWdtzGI=
+
+Name: assets/www/css/slick-theme.css
+SHA1-Digest: QQO0fEqql9Fm2x2ag7nurVU62ZQ=
+
+Name: kotlin/coroutines/experimental/ContinuationInterceptor.kotlin_me
+ tadata
+SHA1-Digest: ebR9aC43JneD4+ts3xa6EWHi4Eg=
+
+Name: res/drawable-xhdpi-v4/ic_action_remove.png
+SHA1-Digest: l5JGHVyNioatN5tnVH3EIvs4nRA=
+
+Name: assets/www/wallet-topupConfirm.html
+SHA1-Digest: zuaR2yqd/m9giQpVfFz2OsBfKUw=
+
+Name: kotlin/jvm/JvmMultifileClass.kotlin_metadata
+SHA1-Digest: lKCl7Olioq5F8c6jT/CwoozZ1qE=
+
+Name: res/menu/capture.xml
+SHA1-Digest: JcDLd+7rVfCZW7aKCN0uIRz1PeM=
+
+Name: kotlin/properties/ReadOnlyProperty.kotlin_metadata
+SHA1-Digest: kIu07KvsZAFjUnkcx5Z6ARrmBHI=
+
+Name: res/drawable-hdpi-v4/ic_action_next_item.png
+SHA1-Digest: qB37IvvoMeEjuZF5lSzNL1atssw=
+
+Name: assets/www/img/insertCoin.png
+SHA1-Digest: R2+Yfplxemdcc2Cq0jxetyyoprI=
+
+Name: assets/www/splashTutorial.html
+SHA1-Digest: 5DC2lrJvMX/iuTZri/6GI5QGDtU=
+
+Name: kotlin/collections/MapWithDefaultImpl.kotlin_metadata
+SHA1-Digest: 7zrWlcIbWLcpG/J9Q1GQjAYXQUc=
+
+Name: kotlin/OptionalExpectation.kotlin_metadata
+SHA1-Digest: wZVI0Gf7UAa7SUzD3hhNPB1T8bs=
+
+Name: assets/html-es/scanning.html
+SHA1-Digest: wVn8rr1cWA+3oXJQsJ5Ose5kZkA=
+
+Name: assets/html-pt/scanning.html
+SHA1-Digest: 2vfWxxTsAw9s0e7suVP9flpD9sM=
+
+Name: kotlin/Pair.kotlin_metadata
+SHA1-Digest: Zsxt69nVyA7rM06aVBem+T3ZfN8=
+
+Name: assets/html-uk/whatsnew.html
+SHA1-Digest: lljAJUVW/9ejt/KIGNtf7PVruK8=
+
+Name: assets/www/js_ext/bootstrap.min.js
+SHA1-Digest: JTcRxtgl3lWoNgVSVzvpUNoYBhQ=
+
+Name: kotlin/internal/contracts/ContractBuilder.kotlin_metadata
+SHA1-Digest: BHi0+ZSVmF3WisSDCVEJ86UvwXM=
+
+Name: assets/www/img/logo.svg
+SHA1-Digest: e4+e3G2LVHDkjN5tS5pdzXIiXns=
+
+Name: assets/www/img/venpay-img.png
+SHA1-Digest: 2ROHGwCaIbvwj2+4rrI2mvHz7eg=
+
+Name: assets/www/img/issue-reporting-icon.svg
+SHA1-Digest: XP+ye6tPLEwHogdE54Tjpd0EugM=
+
+Name: kotlin/Exception.kotlin_metadata
+SHA1-Digest: 0nh2HYAl2jKJnN1q8aF9f+kTuMI=
+
+Name: assets/html-ru/about2d.html
+SHA1-Digest: NgNRN/5l0CttsP+pQoT+OjFjJM4=
+
+Name: assets/www/ex-css/component.css
+SHA1-Digest: gPgzyGoCKFzbtc5Nr2E0paeA5Ro=
+
+Name: assets/www/img/it/Useful_Info_04.png
+SHA1-Digest: tSKxp9IJpMODKNLcyzKIJ1zFi8A=
+
+Name: assets/www/plugins/cordova-plugin-email-composer/www/email_compo
+ ser.js
+SHA1-Digest: 3YecwnDTtjV0aMe4NONXtucztUM=
+
+Name: assets/www/img/Info.svg
+SHA1-Digest: IQzC93gorxF6AtjFXyGt6TbgaWg=
+
+Name: assets/html-zh-rCN/about2d.html
+SHA1-Digest: BXrWB1Us3xr0hr/fMFddBnueLNk=
+
+Name: assets/www/close_creditcardConnection.html
+SHA1-Digest: BLJ231pJLLgtlNpYZS2e4AP2nlM=
+
+Name: assets/html-nl/scanning.html
+SHA1-Digest: MsnbMEdpMHoaVtHPaM/4l0ZRVeU=
+
+Name: assets/www/img/email_icon.svg
+SHA1-Digest: Dv5kWHOd4YeFCaiRxJgam4umj1U=
+
+Name: kotlin/text/StringNumberConversionsKt.kotlin_metadata
+SHA1-Digest: HPcgghbjBVMs3GqMTL3/Bqt/xDA=
+
+Name: kotlin/text/StringsKt.kotlin_metadata
+SHA1-Digest: +vemNStdfTgn6AwtNJxcdfUznzA=
+
+Name: assets/www/img/info-icon.svg
+SHA1-Digest: zS2WCiJK3KuBamNdDIczKA57kdk=
+
+Name: kotlin/internal/contracts/CallsInPlace.kotlin_metadata
+SHA1-Digest: DPdf8rBQVp/FrCJUaB4+4Sr8YOk=
+
+Name: kotlin/IndexOutOfBoundsException.kotlin_metadata
+SHA1-Digest: v0FrzNAR9g2q32r4WmbvWgQeMuo=
+
+Name: kotlin/text/Appendable.kotlin_metadata
+SHA1-Digest: b7qHZtfh4qgwxOXh68P+IYbZxOw=
+
+Name: assets/www/fonts/Roboto-Bold.eot
+SHA1-Digest: lsAv2IZ0S6NizojcEhNtxe4w47U=
+
+Name: assets/www/img/disable-icons/heart-icon.svg
+SHA1-Digest: E/KCxyOoakJv7KNCuyNJsi9c9PY=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: LGvcmHErGGfSpvF5at5+NLNAfZA=
+
+Name: assets/www/login_promo.html
+SHA1-Digest: 1d4wWGnfdlEfLVrAwnhKR1KiTBY=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: ZcMH44vutC6BZDj/Ys3HeH+gI7w=
+
+Name: kotlin/text/MatchGroupCollection.kotlin_metadata
+SHA1-Digest: mnkVK0IqACvKGPZ3rz0+62889OI=
+
+Name: assets/www/js/splashTutorial.js
+SHA1-Digest: OzJnRK6eBfIBZYLdroDYisrD8TA=
+
+Name: assets/www/css/progress.css
+SHA1-Digest: rNmp8tc01wsYqeW8fnOQse7yIBQ=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: assets/www/home.html
+SHA1-Digest: fSN6egIIOUBABOCHILtVaNRGFro=
+
+Name: assets/images/big-pdf417.png
+SHA1-Digest: NLkL5pOJEN2Y0PVZ5C97MForEAo=
+
+Name: assets/www/img/disable-icons/card-icon.svg
+SHA1-Digest: VKySsCGAhILlKQo40242j96DADM=
+
+Name: kotlin/io/IoHKt.kotlin_metadata
+SHA1-Digest: XXkyOHjl++11Cn5KiXfBrF6Lb5g=
+
+Name: kotlin/sequences/MergingSequence.kotlin_metadata
+SHA1-Digest: 8zLZlLhuJw1dri9poXIXtmn8SC0=
+
+Name: kotlin/UNINITIALIZED_VALUE.kotlin_metadata
+SHA1-Digest: UzmuK5D7vWdJ3H6zI0HWpP387/Q=
+
+Name: assets/www/slick/slick.min.js
+SHA1-Digest: xiWXe6kGZgvjdX2DHWRmyeJBE98=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: T8Gaq31oQHzy3MJ8b4o0T/IrE1s=
+
+Name: assets/www/img/fr/Useful_Info_04.png
+SHA1-Digest: MYzTV/GMsKT6vu3XZ02UrjQYGg4=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: GrShT6JSCqBnwD+vwIH0Vmx6gso=
+
+Name: firebase-common.properties
+SHA1-Digest: UsRRCu+d/HMkJGT6OSQvaUXxlh4=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: lqfGr1tBq/VRup9m7NYC6XrjbRY=
+
+Name: kotlin/Lazy.kotlin_metadata
+SHA1-Digest: Y6Jo80lIOj9G5leW5etRv2V8S7Q=
+
+Name: assets/www/img/disable-icons/contact-icon.svg
+SHA1-Digest: aD6iIS6mtfx1kR4CBxICEuEW8xs=
+
+Name: assets/www/img/flashOff.svg
+SHA1-Digest: ocZrwIxJFv+qzufqbGFcCiTI6sE=
+
+Name: kotlin/properties/NotNullVar.kotlin_metadata
+SHA1-Digest: VHaEYJplcFnb7KuWzUDM66PbYv4=
+
+Name: kotlin/collections/ReversedViewsKt.kotlin_metadata
+SHA1-Digest: q+HMUj35N1mHGgCIvfVi+RNEo0A=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: IdvRjw89JO9avAkWqcMVorjyEeg=
+
+Name: assets/www/img/fr/Useful_Info_03_back.png
+SHA1-Digest: d5b3QSnL9z1TkARPYWU4hpxWslI=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: I/cYDNk7Xenqcu9ev80YgZGwkbc=
+
+Name: assets/www/img/qrConnectButton.png
+SHA1-Digest: +x67aV+okLZLAKvDBwCruUfZtDk=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA1-Digest: dXd121QCtP8marvG3vf+fjBBs/Q=
+
+Name: kotlin/collections/MutableMapWithDefault.kotlin_metadata
+SHA1-Digest: yB2PzQiX58tyulljd0uSTPdvI94=
+
+Name: res/drawable-land-xxxhdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: kotlin/Comparator.kotlin_metadata
+SHA1-Digest: pf7uI+hp227YGsaU+sz1bpccWUI=
+
+Name: assets/www/private-wallet.html
+SHA1-Digest: amY/O/kHIk28w0mju1XVM1DuHG4=
+
+Name: kotlin/text/TextHKt.kotlin_metadata
+SHA1-Digest: 0L+nz2s2BnXmZSkXA4vhpThpI1o=
+
+Name: assets/www/js/login.js
+SHA1-Digest: YH/juxd4zSfecS3KcjlPqrY+AC0=
+
+Name: kotlin/collections/HashMap.kotlin_metadata
+SHA1-Digest: DwPf/Qh2RIW14zA2OUSzeNpb01E=
+
+Name: assets/www/index.html
+SHA1-Digest: 3xUQ3a1FuddBHzrm/145fP5BsqU=
+
+Name: kotlin/sequences/TakeSequence.kotlin_metadata
+SHA1-Digest: A/oewyyPK7k+FzWJ9BLtb0AsjrI=
+
+Name: assets/www/img/hrt-line-icon-s.svg
+SHA1-Digest: 9bScmdhUWlCzmukN+FeXq42MNNE=
+
+Name: kotlin/collections/MapAccessorsKt.kotlin_metadata
+SHA1-Digest: SAE6tQV8Do/1liLDd+pHEeqHRzs=
+
+Name: assets/www/plugins/cordova-plugin-network-information/www/Connec
+ tion.js
+SHA1-Digest: UAO1elS6CmF/8uD0F5Z/mER1sO8=
+
+Name: assets/www/img/fr/Useful_Info_03.png
+SHA1-Digest: Fohyd9J78x+0tb1/fdeDYFFWroY=
+
+Name: res/drawable/flip_camera.png
+SHA1-Digest: z5DL4VMetpm7gMVvBJu3dJvcNRM=
+
+Name: kotlin/internal/RequireKotlinVersionKind.kotlin_metadata
+SHA1-Digest: JHsVpk4VV4AdbohoguT3HKpp7Bw=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: ZH8JzW+SN2c0FXk1TM5rkpJy0M8=
+
+Name: assets/html-en/license.html
+SHA1-Digest: YQfGC+mIxi3zaG5l/xs7eF8re4Y=
+
+Name: assets/www/r-js/jquery.event.drag.js
+SHA1-Digest: qYY2i7RDY7vImZKmbETNzfRXvCI=
+
+Name: assets/html-es/index.html
+SHA1-Digest: Va8qoNs/DGfs+A0KX9qCm1teXyU=
+
+Name: assets/images/contact-results-screen.jpg
+SHA1-Digest: y8XzxbaxlWrp383mAl4ZFEiNa/w=
+
+Name: assets/html-uk/sharing.html
+SHA1-Digest: aSzOxLZzOjoovXZuvt8Zpy3pJYU=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: IkrmrmmuVz06NVl7Nv+YYaK9HSU=
+
+Name: assets/www/img/menu.svg
+SHA1-Digest: 8pWIsqfvHOELKbpQ2mYI+cNtTjE=
+
+Name: assets/www/img/disable-icons/scart.svg
+SHA1-Digest: D7hsRUUOfxAzW4GKspw6RGJuS/4=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: Pt4LOUzBwVoJY8QOs/m/fxsU/Uk=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: +Sta2WOccafhjLq+7a2ncWkMbhc=
+
+Name: kotlin/LateinitKt.kotlin_metadata
+SHA1-Digest: /JnlOPTdGnzCIGNyAIuAZ80wgJY=
+
+Name: kotlin/sequences/DropSequence.kotlin_metadata
+SHA1-Digest: F7XHmnFH9F1GR+6FYsKpqhFQKCk=
+
+Name: kotlin/NoWhenBranchMatchedException.kotlin_metadata
+SHA1-Digest: SvKGCilheFocwth6mUa04upV7AY=
+
+Name: assets/www/js_common/commonFunctions.js
+SHA1-Digest: Baz2efw1smN30HGztUouThQVqjg=
+
+Name: assets/www/img/card-icon.svg
+SHA1-Digest: s9zLqAuBCFc/eSM/WdprPQRSasY=
+
+Name: assets/www/r-js/switchy.js
+SHA1-Digest: 8XjeO+7lhk6VJW+4HP8eN19r8HU=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: /ngGQfii9Wyu9NP6BREDZTGj98s=
+
+Name: assets/html-zh-rTW/scanning.html
+SHA1-Digest: fx9zo1qOdQ2tuaZMIq1uW8ygu+A=
+
+Name: kotlin/internal/contracts/ReturnsNotNull.kotlin_metadata
+SHA1-Digest: LI1tI2agLz5ZgeiQpL2meEEKY1A=
+
+Name: assets/www/css/country-code.css
+SHA1-Digest: HDemHNeRGSMbAMPG/C15Wft/upg=
+
+Name: assets/www/img/chatCash.png
+SHA1-Digest: XeOuP+f3TFzAz7NsYgRvUsb8XaY=
+
+Name: assets/html-ja/sharing.html
+SHA1-Digest: PmW0BzTkRNEGfRi/5r/ANuBmNNc=
+
+Name: assets/images/search-book-contents.jpg
+SHA1-Digest: eOsHIHhlWgyh6vA4Ah06FPjDxLw=
+
+Name: assets/html-de/scanning.html
+SHA1-Digest: Y81kVpx0miYWovgn/W3K5L2eJ3A=
+
+Name: assets/www/js_common/read_writefile.js
+SHA1-Digest: kTDdpozSOYbrMxu1fh98Eqk+aAs=
+
+Name: assets/www/css/fonts-style.css
+SHA1-Digest: 8XpBGDudg7agouFTby3+DW4PHA0=
+
+Name: assets/www/fonts/Roboto-Light.ttf
+SHA1-Digest: GR3aelFCmQzZgHJ9Q7J+SALwsyE=
+
+Name: kotlin/comparisons/ReverseOrderComparator.kotlin_metadata
+SHA1-Digest: zV+dpjTIzNo+IZdtViCowFh0v5w=
+
+Name: firebase-measurement-connector-impl.properties
+SHA1-Digest: fdpKk29nYC/QhQjpc4OP1Kn/7uw=
+
+Name: kotlin/collections/IteratorsKt.kotlin_metadata
+SHA1-Digest: fAF6vHRTZ8/+YagcL1Dbcmls5Hk=
+
+Name: kotlin/internal/RequireKotlin.kotlin_metadata
+SHA1-Digest: /PK7zIxVKc/474IMGd+5zAUDfQE=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: 793egz0jiDktY5/7rUEqAroaHFI=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: VYfC/z6me1616ikREcNs/lRnJj4=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: CTQ+hjImmsLxK3P1nprjRaw4O2U=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA1-Digest: kRM7fcPklFkwEtR/qsKbQjV0p+A=
+
+Name: res/drawable-xxhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: O6f3A1T4xOSQqVUldAFPWs1Ax2I=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: /mJ5H2qTR9Bi2LjUspEVgxlBB+g=
+
+Name: assets/www/img/next.png
+SHA1-Digest: Wxvr42vFE+cg+6kioacNJ+pJN9o=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: V3s/YlawQ26DKo0P2hxPmefwmP4=
+
+Name: assets/html-fr/index.html
+SHA1-Digest: 22hDI63Xq9f9Fby+hunF8Iw8GXs=
+
+Name: kotlin/coroutines/experimental/intrinsics/CoroutinesIntrinsicsHK
+ t.kotlin_metadata
+SHA1-Digest: 1ud0sM7pts+ybGSLVRfFYNGztT4=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: 8obR6y3+yzGL4pJgoD/5817C1uM=
+
+Name: kotlin/text/MatchGroup.kotlin_metadata
+SHA1-Digest: oJkQHiEc7+Gw4ECGet9qZkmNwNw=
+
+Name: res/drawable-land-xxhdpi-v4/screen.png
+SHA1-Digest: B2nppU+LjpH6p8u6e6r4yEREfug=
+
+Name: kotlin/internal/contracts/InvocationKind.kotlin_metadata
+SHA1-Digest: +/kmOvLZ1FGbL+p8UAq3n3KxdWA=
+
+Name: assets/www/img/hrt-drk-icon.svg
+SHA1-Digest: xRj8ToV46+yVu5xrj4+vuvj6UYI=
+
+Name: assets/html-pt/whatsnew.html
+SHA1-Digest: 4yo582SeM0Jro+odymjtVPlsSvQ=
+
+Name: assets/www/css/slick.css
+SHA1-Digest: ocEAjjvfHtXjE7W/ix2qxTuLemU=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: +Sta2WOccafhjLq+7a2ncWkMbhc=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: kotlin/Experimental.kotlin_metadata
+SHA1-Digest: aUkJa8jeoWnRLkmqxBoDZJ5a4gI=
+
+Name: res/layout/search_book_contents_header.xml
+SHA1-Digest: 2TAKRfBDAdeRVsVDphCe2mXiqjs=
+
+Name: assets/www/img/it/Useful_Info_06.png
+SHA1-Digest: gPBvBBcEj8p/TvDTxoWVK68kLqU=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: GP+/JjynifGXyO3gKsnOnGKNyf4=
+
+Name: assets/www/img/fr/Useful_Info_02.png
+SHA1-Digest: RELUVecBPcbqCohPO+zpkR04LG0=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: CcGyxsqDsDUFoLO65Ru79I10YHs=
+
+Name: kotlin/coroutines/experimental/CoroutineContext.kotlin_metadata
+SHA1-Digest: cit7vGqHa1AjO41HVVxGQ5j2OLM=
+
+Name: assets/www/plugins/cordova-plugin-firebase-authentication/www/Fi
+ rebaseAuthentication.js
+SHA1-Digest: G3xsFN9GZ5TyU7bFKAOfpbiSAss=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA1-Digest: V5BgoOMFP6SkB/Rq1phUjJUqsSo=
+
+Name: res/drawable-xhdpi-v4/ic_action_next_item.png
+SHA1-Digest: NR4QrPwnbh+SEbVIapOw4Qetu0E=
+
+Name: assets/html-ja/about2d.html
+SHA1-Digest: mhlz/q0xO8iGC4m2N5GjcdU16u8=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA1-Digest: UeOh+HJRiySoixJQcw9pSx76zas=
+
+Name: kotlin/collections/RingBuffer.kotlin_metadata
+SHA1-Digest: hi8U2gWt1n8mt1BuQCBJRJ4h7qg=
+
+Name: res/drawable/launcher_icon.png
+SHA1-Digest: JBs3YzFuGOq6F9sJBpBMi6q0OBY=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA1-Digest: eDEv0/H5H+qqc28Qi2s85+/aPLA=
+
+Name: kotlin/sequences/IndexingSequence.kotlin_metadata
+SHA1-Digest: DdMm33iG3g/wsdhv6inPpirSxuk=
+
+Name: kotlin/Triple.kotlin_metadata
+SHA1-Digest: vkvr7L5rpkLoryDi5ysY0hgW92E=
+
+Name: assets/html-uk/about1d.html
+SHA1-Digest: lATDQgm9SqPtORQBxniA+zJ3AwM=
+
+Name: play-services-basement.properties
+SHA1-Digest: bsGfN9BBIEW4xMXsnO00S8Q1H3o=
+
+Name: assets/www/img/icon_myarea_little.svg
+SHA1-Digest: aJ8ZrBihJVQ0+8AtdNC9y2Q49a8=
+
+Name: assets/html-uk/index.html
+SHA1-Digest: 86iKqDbRKwWHFPS8d30JWgLWrOY=
+
+Name: play-services-stats.properties
+SHA1-Digest: znsiO5CaOr9yfziwuRNjQUCSUIU=
+
+Name: kotlin/internal/LowPriorityInOverloadResolution.kotlin_metadata
+SHA1-Digest: KyNH7vU4CNtAp18Ku4L3XxOry+k=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: +Sta2WOccafhjLq+7a2ncWkMbhc=
+
+Name: assets/html-uk/license.html
+SHA1-Digest: +tz25yTlQzzvYFSEH+xelqW4Gs4=
+
+Name: assets/www/usefulInfo.html
+SHA1-Digest: 9Qf1JhifLK9ttuAjpE4ijx7RJXM=
+
+Name: assets/html-ja/about1d.html
+SHA1-Digest: evcN/3LX640mnTha4IlWFBlChvY=
+
+Name: assets/www/img/lio.png
+SHA1-Digest: raI/QqnzbtMhizUNpy2uE87kfLw=
+
+Name: assets/www/img/home_img.png
+SHA1-Digest: tQlNlxIXGbVr+kwmoyaroZvO510=
+
+Name: assets/www/r-js/index.js
+SHA1-Digest: 8ModJPDeWtC/lDYxvcz7p/1SIDY=
+
+Name: res/menu/history.xml
+SHA1-Digest: RHTjG3zcw0Jgk/TqPY18wiNFDzs=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: DFef/yan8ly1VCWwCwiTc+Z/RHQ=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: amV1Y6Llkb534o53LeXU4HBATv0=
+
+Name: res/drawable-hdpi-v4/ic_action_remove.png
+SHA1-Digest: fJ8PTsrpYrWc6H7e3ctCsDSiaAY=
+
+Name: kotlin/internal/contracts/Effect.kotlin_metadata
+SHA1-Digest: x+zkNuY+F3K7d5h5EbGyh51YJbU=
+
+Name: kotlin/collections/MutableCollectionsKt.kotlin_metadata
+SHA1-Digest: giULC+60SnNzgcOAseWhsMaBWWk=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+

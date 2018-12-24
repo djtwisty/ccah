@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="./css/bootstrap.css" rel="stylesheet">
+    <link href="./css/fonts-style.css" rel="stylesheet">
+    <link href="./css/custom-style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
+</head>
+<body>
+    <div class="head-nav cbp-spmenu-push">
+        <ul id="cbp-spmenu-s2" class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right">
+            <li>
+                <div id="removeIcon" class="div-table remove-div home-section">
+                    <div class="div-table-cell ">
+                        <span id="userName"></span>
+                        <a href="#" id="remove-icn" class="bar-icon">
+                            <i class="menu-remove-img"></i></a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="areaMnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="myarea-icon"></h3>
+                            <span id="areaMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="ccardDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="card-icon"></h3>
+                            <span id="crCardMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="walletDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="wallet-icon"></h3>
+                            <span id="walletMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="trnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="scart-icon"></h3>
+                            <span id="trnMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="issueDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="issue-icon"></h3>
+                            <span id="issueMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="promoDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="promo-icon">
+                                <div id="inner-notification-circle" class="alert-msg-circle"><span id="inr-prmCnt" class="inr-promo-stl"></span></div>
+                            </h3>
+                            <span>Promo</span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="favMnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="heart-icon"></h3>
+                            <span id="favMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="settingDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="setting-icon"></h3>
+                            <span id="settingMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="infoUtilDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="eye-gls-icon"></h3>
+                            <span id="infoUtil"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="infoMnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="contact-icon"></h3>
+                            <span id="infoMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="logoutDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="logout-icon"></h3>
+                            <span id="logoutMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <div class="version-style"><span id="versionId"></span></div>
+        </ul>
+    </div>
+
+    <div class="overlay-div"></div>
+
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4 price primary_color">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div id="walletBal"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12"><span id="lblBalance"></span><span class="currency">€</span></div>
+                    </div>
+
+
+                </div>
+                <div class="col-xs-4 "><i id="backToHome" class="logo"></i></div>
+                <div class="col-xs-4 text-right">
+                     <a href="#" id="showRight" class=" active bar-icon postion-relative-cont">
+                       <div id="outer-notification-circle" class="alert-msg-circle-out alert-msg-circle-left"><span id="out-prmCnt" class="out-promo-stl"></span></div>
+                        <i class="arrow-cont menu-bar-img"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center home-mid-content">
+                <div class="pge-title"><i class="card-icon"></i><span id="creditCardTitle"></span></div>
+            </div>
+        </div>
+    </div>
+    <div class="container custom-container">
+        <div class="payment-option">
+            <div class="row">
+                <div class="col-sm-6 cols">
+                    <div class="wrapper-height text-center" style="overflow: auto;">
+                        <div class="tri-img"></div>
+                        <div class="creditcard-wallet">
+                            <h1 id="closeWallet"></h1>
+                            <p id="ccClose"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bootstrap core JavaScript
+    ================================================== -->
+
+        <script src="js_ext/jquery-1.11.1.js"></script>
+        <script src="js_ext/bootstrap.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script src="js_common/App.js"></script>
+        <script src="js_common/commonFunctions.js"></script>
+        <script src="js_localizations/MPResources.js"></script>
+        <script src="js_common/read_writefile.js"></script>
+        <script src="js/close_creditCardConnection.js"></script>
+        <script src="js_common/appMenuBar.js"></script>
+        <div class="custom-modal"></div>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/fonts-style.css" rel="stylesheet">
+    <link href="css/country-code.css" rel="stylesheet" />
+    <link href="css/custom-loading.css" rel="stylesheet" />
+    <link href="css/custom-style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/slick.css" />
+</head>
+<body>
+
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4">
+                    <a href="register.html" class="fq" id="headerFirstpage"></a>
+                </div>
+                <div class="col-xs-4 "><i class="logo-w-hm"></i></div>
+                <div class="col-xs-4"><a href="#" class="fq" id="headerFAQ"></a></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-12 ">
+
+                <div id="reg-cont">
+                    <div class="login-inner-space regs-form-cont ">
+
+                        <div class="form-cont">
+                            <p id="registerIntro"></p>
+
+                            <div class="clearfix"></div>
+                            <div class="row conditions custom-register">
+                                <div class="check-box-l col-xs-12">
+                                    <input type="checkbox" id="commercialInformationChk" /><label id="commercialInformationSpn" for="commercialInformationChk"></label>
+                                </div>
+                                <div class="check-box-l col-xs-12">
+                                    <input type="checkbox" id="marketStudiesChk" /><label for="marketStudiesChk" id="marketStudiesSpn"></label>
+                                </div>
+                                <div class="check-box-l col-xs-12">
+                                    <input type="checkbox" id="affiliatedCompaniesChk" /><label for="affiliatedCompaniesChk" id="affiliatedCompaniesSpn"></label>
+                                </div>
+                            </div>
+                            <!--<p id="ntc_p3">
+                            </p>
+
+                            <div class="check-box-l col-xs-12" style="padding-left:4px">
+                                <input type="checkbox" id="acceptAgeNoticeChk" /><label for="acceptAgeNoticeChk"><strong style="font-weight:lighter" id="acceptAgeSpnNotice"></strong></label>
+                            </div>-->
+                            <div class="login-cont">
+                                <button type="button" class="app-btn register-btn" id="registrationbtn"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade info-popup" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+                </div>
+                <div class="container login-cont-info">
+                    <div class="width-section">
+                        <div class="popup-info">
+                            <div class="row">
+                                <div class="col-sm-12 cols">
+                                    <div class="wrapper-height">
+                                        <div class="popup-info-text Cont-a"><strong id="lblRegInfo"></strong><span id="lblRegInfo1"></span></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div id="ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="message1"></p>
+                    <p id="message2"></p>
+                    <p id="message3"></p>
+                    <button type="submit" id="alertOk"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ext_ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="ext_message1"></p>
+                    <p id="ext_message2"></p>
+                    <p id="ext_message3"></p>
+                    <p id="ext_message4"></p>
+                    <button type="submit" id="alertOkExt"></button>
+                    <button type="submit" id="alertCancel"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+
+    <script src="js_ext/jquery-1.11.1.js"></script>
+    <script src="js_ext/bootstrap.min.js"></script>
+    <script src="js_common/App.js"></script>
+    <script src="js_localizations/MPResources.js"></script>
+    <script src="js_common/commonFunctions.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js/registerSignup.js"></script>
+    <script src="js_ext/intlTelInput.js"></script>
+    <script>
+        $("#regMobileNumber").intlTelInput();
+    </script>
+    <div class="custom-modal"></div>
+</body>
+</html>

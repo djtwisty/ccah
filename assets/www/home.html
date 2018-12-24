@@ -1,0 +1,816 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/custom-loading.css" rel="stylesheet" />
+    <link href="css/fonts-style.css" rel="stylesheet">
+    <link href="css/custom-style.css" rel="stylesheet">
+    <link href="r-css/jquerytop.css" rel="stylesheet" />
+    <link href="r-css/switchy.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/slick.css" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link href="ex-css/animations.css" rel="stylesheet" />
+    <link href="ex-css/component.css" rel="stylesheet" />
+    <link href="css/popup.css" rel="stylesheet" />
+    <link href="css/swiper.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="swiper-container swiper-container-fixed" id="scanGuide" style="display: block; width: 100%; opacity: 0;">
+        <div class="closeBtn">
+            <div class="col-xs-4"></div>
+            <div class="col-xs-4">
+                <img src="img/close_menu.svg">
+                <span>Close</span>
+            </div>
+
+            <div class="col-xs-4"></div>
+        </div>
+        <div class="swiper-wrapper swiper-wrapper-home">
+            <div class="swiper-slide">
+                <div id="walletModal" role="dialog">
+                    <div class="container">
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper wallet-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_common_1_1"></span>
+
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="coffeecupModal">
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow coffeecup-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_common_1_2"></span>
+
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="menuModal">
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow menu-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_common_1_3"></span>
+
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div id="sliderModal">
+                    <div class="text-center slide-text">
+                        <p>
+                            <span id="Guide_common_1_4"></span>
+                        </p>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow slide-wrap">
+
+                            <div class="container">
+                                <div class="col-xs-3">
+                                    &nbsp;
+                                </div>
+                                <div class="col-xs-3">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="col-xs-3">
+                                    &nbsp;
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="flashModal">
+
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow flash-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_1_5"></span>
+
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="QRModal">
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow qr-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_1_6"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="pinModal">
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow pin-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_1_7"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-12">
+                            <div class="circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="handModal">
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper single-arrow-left hand-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_1_8"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-12">
+                            <div class="circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <!--second flow-->
+    <div class="swiper-container swiper-container-fixed" id="manualGuide" style="display: block; width: 100%; opacity: 0;">
+        <div class="closeBtn">
+            <div class="col-xs-4"></div>
+            <div class="col-xs-4">
+                <img src="img/close_menu.svg">
+                <span>Close</span>
+            </div>
+            <div class="col-xs-4"></div>
+        </div>
+        <div class="swiper-wrapper swiper-wrapper-home">
+            <div class="swiper-slide">
+                <div id="walletManualModal" role="dialog">
+                    <div class="container">
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper wallet-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_common_2_1"></span>
+
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="coffeecupManualModal">
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow coffeecup-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_common_2_2"></span>
+
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="menuManualModal">
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow menu-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_common_2_3"></span>
+
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div id="sliderManualModal">
+                    <div class="text-center slide-text">
+                        <p>
+                            <span id="Guide_common_2_4"></span>
+                        </p>
+                    </div>
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow slide-wrap">
+
+                            <div class="container">
+                                <div class="col-xs-3">
+                                    &nbsp;
+                                </div>
+                                <div class="col-xs-3">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="col-xs-3">
+                                    &nbsp;
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="favouriteModal">
+
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow flash-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_2_5"></span>
+
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="codeModal">
+
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow flash-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_2_6"></span>
+
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="btnModal">
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow qr-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_2_7"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="circle"></div>
+                        </div>
+                        <div class="col-xs-4">
+                            &nbsp;
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="pinManualModal">
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper double-arrow pin-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_2_8"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-12">
+                            <div class="circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div id="handManualModal">
+                    <div class="modal-dialog">
+                        <div class="tip-wrapper single-arrow-left hand-wrap">
+                            <div class="text-center">
+                                <p>
+                                    <span id="Guide_2_9"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="col-xs-12">
+                            <div class="circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="head-nav cbp-spmenu-push">
+        <ul id="cbp-spmenu-s2" class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right">
+            <li>
+                <div id="removeIcon" class="div-table remove-div home-section">
+                    <div class="div-table-cell ">
+                        <span id="userName"></span>
+                        <a href="#" id="remove-icn" class="bar-icon">
+                            <i class="menu-remove-img"></i>
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="areaMnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="myarea-icon"></h3>
+                            <span id="areaMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="ccardDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="card-icon"></h3>
+                            <span id="crCardMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="walletDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="wallet-icon"></h3>
+                            <span id="walletMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="trnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="scart-icon"></h3>
+                            <span id="trnMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="issueDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="issue-icon"></h3>
+                            <span id="issueMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="promoDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="promo-icon">
+                                <div id="inner-notification-circle" class="alert-msg-circle"><span id="inr-prmCnt" class="inr-promo-stl"></span></div>
+                            </h3>
+                            <span>Promo</span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="favMnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="heart-icon"></h3>
+                            <span id="favMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="settingDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="setting-icon"></h3>
+                            <span id="settingMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="infoUtilDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="eye-gls-icon"></h3>
+                            <span id="infoUtil"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="infoMnDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="contact-icon"></h3>
+                            <span id="infoMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="div-table home-section">
+                    <div id="logoutDiv" class="div-table-cell ">
+                        <a href="#">
+                            <h3 class="logout-icon"></h3>
+                            <span id="logoutMenu"></span>
+                            <img src="img/next.png" class="right-ico">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <div class="version-style"><span id="versionId"></span></div>
+        </ul>
+    </div>
+    <div class="overlay-div"></div>
+
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4 price primary_color">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div id="walletBal"></div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div id="walletPanel"><span id="lblBalance"></span><span class="currency">€</span><i id="refreshIcon" class="fa fa-refresh refresh-icon" aria-hidden="true"></i></div>
+                            <div id="ccPanel" class="cc-panel"><i class="home-card-icon"></i></div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-xs-4 "><i class="logo"></i></div>
+                <div class="col-xs-4 text-right">
+                    <a href="#" id="showRight" class=" active bar-icon postion-relative-cont">
+                        <div id="outer-notification-circle" class="alert-msg-circle-out alert-msg-circle-left"><span id="out-prmCnt" class="out-promo-stl"></span></div>
+                        <i id="menuBar" class="arrow-cont menu-bar-img"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container ">
+        <div class="row">
+            <div class="col-xs-12 text-center home-mid-content">
+                <p>
+                    <img src="img/home_img.png" class="home_img" alt=" ">
+                </p>
+                <p class="home-p" id="Home_w_upperlabel_03"></p>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="switch-box">
+                <div class="container">
+                    <div>
+                        <div class="col-xs-3"><i id="walletSection" class="wallet-icon-l-active"></i></div>
+                        <div class="col-xs-6 text-center customslider">
+                            <select id="switch-me" style="display: none;">
+                                <option value="0"></option>
+                                <option value="1"></option>
+                            </select>
+                            <label class="toggle" style="display: none;">
+                                <input type="checkbox" id="paymentMode">
+                                <span data-unchecked="On" data-checked="Off"></span>
+                            </label>
+                        </div>
+                        <div class="col-xs-3"><i id="cardSection" class="card-l-gry"></i></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="container custom-container">
+        <div class="payment-option">
+            <div class="row">
+                <div id="pt-main">
+
+                    <div id="manualConnectionView" class="home-wrapper-height text-center pt-page pt-page-1" style="overflow: auto;">
+                        <div class="creditcard-wallet">
+                            <h1 id="ccLabel1" style="margin-left: 5%;margin-right: 5%;">CONNECT TO VENDING MACHINE</h1>
+                            <div id="popup-pos">
+                                <div id="favCode" style="margin-bottom: -14px;"><i id="vmIcon"></i></div>
+                                <input type="tel" class="fcreditcard-wallet-input" id="payCode" maxlength="5" placeholder="Type-in the V.M. code" autocomplete="off">
+                            </div>
+                            <div class="heart-icons-cont">
+                                <button type="submit" class="disable_btn" disabled="disabled" id="buybtn">BUY</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="scannerConnectionView" class="home-wrapper-height text-center pt-page pt-page-2" style="overflow: auto;">
+                        <div class="creditcard-wallet">
+                            <h1 id="ccLabel2" style="margin-left: 5%;margin-right: 5%;">CONNECT TO VENDING MACHINE</h1>
+                        </div>
+                        <div id="flashClick" style="margin-top: 2%;">
+                            <img id="flashIcon" class="flash-off-icon">
+                        </div>
+                        <label class="read-qr" id="Home_Wallet_label05">Leggi QR</label>
+                        <div class="scanner-div">
+                            <img id="qrli" class="scanner-icon" src="img/qrConnectButton.png">
+                        </div>
+                    </div>
+                    <div class="home-icon-div">
+                        <i id="pinTap"></i>
+                        <i id="handTap"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="info-icon-home" id="guide">
+        <img src="img/Info.svg" alt=" " data-toggle="modal" height="26px" data-target="#myModal" class="click_h">
+    </div>
+    <div id="ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="message1"></p>
+                    <p id="message2"></p>
+                    <p id="message3"></p>
+                    <button type="submit" id="alertOk"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="low-balance" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="lb_message1"></p>
+                    <p id="lb_message2"></p>
+                    <p id="lb_message3"></p>
+
+                    <button type="submit" id="cancelRechage"></button>
+                    <button type="submit" id="rechargeButton"></button>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="zero-balance" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="lb_message11"></p>
+                    <p id="lb_message21"></p>
+                    <p id="lb_message31"></p>
+
+                    <button type="submit" id="cancelRechageZero"></button>
+                    <button type="submit" id="rechargeButtonZero"></button>
+                    <div class="layerBox">
+                        <input type="checkbox" id="noToShow_SelectionModelChkHome" />
+                        <label id="Layer2_checkbox" for="noToShow_SelectionModelChkHome"></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="layer2" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p class="headerWarrningHome" id="Layer2_header_card"></p>
+                    <button type="submit" id="setPaymentMode"></button>
+                    <div class="layerBox">
+                        <input type="checkbox" id="noToShow_SelectionModelChk" />
+                        <label id="Layer3_checkbox" for="noToShow_SelectionModelChk"></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="setAlert" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p class="headerWarrningHome" id="alertStatus"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="js_ext/jquery-1.11.1.js"></script>
+    <script src="js_ext/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js_ext/slick.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js_common/App.js"></script>
+    <script src="js_ext/jquery.autocomplete.js"></script>
+    <script src="js_common/commonFunctions.js"></script>
+    <script src="js_localizations/MPResources.js"></script>
+    <script src="js/home.js"></script>
+    <script src="r-js/switchy.js"></script>
+    <script src="r-js/jquery.event.drag.js"></script>
+    <script src="r-js/index.js"></script>
+    <script src="js_ext/swiper.min.js"></script>
+    <script type="text/javascript">
+        var swiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+        });
+    </script>
+    <script src="js_common/appMenuBar.js"></script>
+    <script src="ex-js/modernizr.custom.js"></script>
+    <script src="ex-js/pagetransitions.js"></script>
+
+    <div class="custom-modal"></div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+package com.google.android.gms;
+
+import com.google.android.gms.dependencies.DependencyAnalyzer;
+import com.google.android.gms.dependencies.DependencyInspector;
+import org.gradle.api.Plugin;
+import org.gradle.api.Project;
+
+public class StrictVersionMatcherPlugin implements Plugin<Project> {
+    private static DependencyAnalyzer globalDependencies = new DependencyAnalyzer();
+
+    public void apply(Project project) {
+        project.getGradle().addListener(new DependencyInspector(globalDependencies, project.getName(), "This error message came from the strict-version-matcher-plugin Gradle plugin, report issues at https://github.com/google/play-services-plugins and disable by removing the reference to the plugin (\"apply 'strict-version-matcher-plugin'\") from build.gradle."));
+    }
+}

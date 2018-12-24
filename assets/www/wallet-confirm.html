@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="./css/bootstrap.css" rel="stylesheet">
+    <link href="./css/fonts-style.css" rel="stylesheet">
+    <link href="css/custom-loading.css" rel="stylesheet" />
+    <link href="ex-css/animations.css" rel="stylesheet" />
+    <link href="ex-css/component.css" rel="stylesheet" />
+    <link href="./css/custom-style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
+</head>
+<body>
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4 price primary_color">
+                </div>
+                <div class="col-xs-4 "><i class="logo"></i></div>
+                <div class="col-xs-4 text-right"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container ">
+        <div class="row">
+            <div class="col-xs-12 text-center ">
+
+                <div class="pge-title"><i class="my-wallet-s"></i><span id="homeWalletTitle"></span></div>
+                <div id="wht-bg-cont" class="wht-bg scroll-container">
+                    <div class="tri-img"></div>
+                    <div id="mid-cont" class="confirm-mid-container">
+                        <h1 id="confirmBuyProceed"></h1>
+                        <div class="row-fluid">
+                            <div id="pt-main">
+                               
+                                <div id="manualConnectionView" class="wallet_connection_wrapper text-center pt-page pt-page-1" style="overflow: auto;">
+                                    <div class="wallet_connection_icon_div">
+                                        <img id="Img1" class="wallet-confirm-icon" src="img/oggetto_vettoriale_avanzato.svg">
+                                    </div>
+                                    <div>
+                                        <h2 id="ConfirmBuy_selection"></h2>
+                                    </div>
+                                </div>
+                               <div id="scannerConnectionView" class="wallet_connection_wrapper text-center pt-page pt-page-2" style="overflow: auto;">
+                                    <div class="wallet_connection_icon_div">
+                                        <img id="Img2" class="wallet-confirm-icon" src="img/oggetto_vettoriale_avanzato_1.svg">
+                                    </div>
+
+                                    <div>
+                                        <h2 id="ConfirmBuy_wallet"></h2>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+                    <button type="button" class="wallet-confirm-btn" id="walletCloseBtn"></button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="layer2" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p class="headerWarrningHome" id="Layer2_header_card" style="font-weight: normal"></p>
+                    <button type="submit" id="setPaymentMode"></button>
+                    <div class="layerBox">
+                        <input type="checkbox" id="noToShow_SelectionModelChkWallet" />
+                        <label id="Layer2_checkbox" for="noToShow_SelectionModelChkWallet" style="font-weight: normal;color: #16aeec;"></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="layer3" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p class="headerWarrningHome" id="Layer3_header_card" style="font-weight: normal"></p>
+                    <button type="submit" id="setPaymentMode1"></button>
+                    <div class="layerBox">
+                        <input type="checkbox" id="noToShow_SharedWallet" />
+                        <label id="Layer3_checkbox" for="noToShow_SharedWallet" style="font-weight: normal;color: #16aeec;"></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="js_ext/jquery-1.11.1.js"></script>
+    <script src="js_ext/bootstrap.min.js"></script>
+    <script src="js_ext/slick.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js_common/App.js"></script>
+    <script src="js_common/commonFunctions.js"></script>
+    <script src="js_localizations/MPResources.js"></script>
+    <script src="js/wallet-confirm.js"></script>
+    <script src="js_common/appMenuBar.js"></script>
+    <script src="js_common/appMenuBar.js"></script>
+    <script src="ex-js/modernizr.custom.js"></script>
+    <script src="ex-js/wallet_connection_pagetransitions.js"></script>
+    <div class="custom-modal"></div>
+</body>
+</html>

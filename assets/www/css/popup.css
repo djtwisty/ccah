@@ -1,0 +1,1329 @@
+﻿@charset "utf-8";
+
+CSS Document .modal.in {
+    display: block;
+}
+
+.modal-backdrop.in {
+    opacity: 0.4;
+}
+
+.tip-wrapper {
+    box-sizing: border-box;
+    width: 90%;
+    padding: 15px;
+    position: relative;
+    margin: auto;
+    color: white;
+}
+
+.circle {
+    max-width: 100px;
+    min-width: 100px;
+    height: 100px;
+    border: solid 5px #ffffff;
+    border-radius: 50%;
+}
+
+/*TUTORIAL 1*/
+.coffeecup-wrap {
+    margin-top: 20%;
+}
+
+.wallet-wrap:after {
+    border-bottom: 20px solid transparent;
+    border-left: 25px solid #fa7922;
+    border-top: 20px solid transparent;
+    content: "";
+    display: block;
+    height: 0;
+    margin-right: -29px;
+    position: absolute;
+    right: 0;
+    top: 40%;
+    width: 0;
+}
+
+.coffeecup-wrap .cupimg {
+    max-width: 60px;
+    margin: 20px auto;
+}
+
+    .coffeecup-wrap .cupimg img {
+        width: 100%;
+        height: auto;
+    }
+
+#coffeecupModal .circle {
+    margin: auto;
+    margin-left: -6px;
+}
+
+#coffeecupManualModal .circle {
+    margin: auto;
+    margin-left: -6px;
+}
+
+.tip-wrapper p {
+    font: normal 40px Roboto-Regular;
+    margin-bottom: 20px;
+}
+
+
+.single-arrow-left:before {
+    border-bottom: 20px solid transparent;
+    border-right: 25px solid #fa7922;
+    border-top: 20px solid transparent;
+    content: "";
+    display: block;
+    height: 0;
+    margin-left: -29px;
+    position: absolute;
+    left: 0;
+    top: 46%;
+    width: 0;
+}
+
+
+/*TUTORIAL 2*/
+
+.wallet-wrap {
+    margin-top: 20%;
+}
+
+.double-arrow:after {
+    border-bottom: 20px solid transparent;
+    border-left: 25px solid #fa7922;
+    border-top: 20px solid transparent;
+    content: "";
+    display: block;
+    height: 0;
+    margin-right: -29px;
+    position: absolute;
+    right: 0;
+    top: 46%;
+    width: 0;
+}
+
+.double-arrow:before {
+    border-bottom: 20px solid transparent;
+    border-right: 25px solid #fa7922;
+    border-top: 20px solid transparent;
+    content: "";
+    display: block;
+    height: 0;
+    margin-left: -29px;
+    position: absolute;
+    left: 0;
+    top: 46%;
+    width: 0;
+}
+
+/*TUTORIAL 2*/
+.wallet-wrap .wallet-detail {
+    font-size: 35px;
+    margin: 20px auto;
+}
+
+    .wallet-wrap .wallet-detail img {
+        max-width: 50px;
+        vertical-align: inherit;
+    }
+
+#walletModal .circle {
+    margin: auto;
+    margin-left: -20px;
+}
+
+#walletManualModal .circle {
+    margin: auto;
+    margin-left: -20px;
+}
+
+/*TUTORIAL 3*/
+
+.menu-wrap {
+    margin-top: 20%;
+}
+
+    .menu-wrap .menu-icon {
+        max-width: 50px;
+        margin: auto;
+        margin: 20px auto;
+    }
+
+        .menu-wrap .menu-icon img {
+            width: 100%;
+            height: auto;
+        }
+
+#menuModal .circle {
+    float: right;
+    margin-right: -30px;
+}
+
+#menuManualModal .circle {
+    float: right;
+    margin-right: -30px;
+}
+
+/*TUTORIAL 4*/
+.slide-wrap {
+    margin-top: 8%;
+}
+
+.slide-text {
+    color: white;
+    font-size: 23px;
+    margin-top: 21%;
+}
+
+/*TUTORIAL 5*/
+.flash-wrap {
+    margin-top: 49%;
+}
+
+#flashModal .circle {
+    margin: auto;
+    margin-left: -6px;
+    margin-top: -55%;
+}
+
+#favouriteModal .circle {
+    margin: auto;
+    margin-left: -6px;
+    margin-top: -55%;
+}
+
+/*TUTORIAL 6*/
+.qr-wrap {
+    margin-top: 49%;
+}
+
+#QRModal .circle {
+    margin: auto;
+    margin-left: -10px;
+    margin-top: 76%;
+}
+
+#codeModal .circle {
+    margin: auto;
+    margin-left: -6px;
+    margin-top: -55%;
+}
+
+/*TUTORIAL 7*/
+
+.pin-wrap {
+    margin-top: 49%;
+}
+
+#pinModal .circle {
+    margin: auto;
+    margin-left: -10%;
+    margin-top: 42%;
+}
+
+#pinManualModal .circle {
+    margin: auto;
+    margin-left: -10%;
+    margin-top: 42%;
+}
+
+#btnModal .circle {
+    margin: auto;
+    margin-left: -15px;
+    margin-top: 45%;
+}
+
+/*TUTORIAL 8*/
+
+.hand-wrap {
+    margin-top: 49%;
+}
+
+#handModal .circle {
+    margin: auto;
+    margin-left: 75%;
+    margin-top: 42%;
+}
+
+#handManualModal .circle {
+    margin: auto;
+    margin-left: 75%;
+    margin-top: 42%;
+}
+
+
+/*TUTORIAL 9*/
+
+.qr-wrap {
+}
+
+    .qr-wrap input {
+        max-width: 100px;
+        width: 100%;
+        border: solid 1px #ccc;
+        text-align: center;
+    }
+
+    .qr-wrap .qr-icon {
+        max-width: 50px;
+        margin: auto;
+        margin: 20px auto;
+    }
+
+        .qr-wrap .qr-icon img {
+            width: 100%;
+            height: auto;
+        }
+
+#qrModal .circle {
+    margin: 173px 41px 0 0;
+    float: right;
+}
+
+#qrModal .modal-dialog {
+    margin-top: 0;
+}
+
+
+/*TUTORIAL 10*/
+.wallet2-wrap .wallet-detail {
+    font-size: 35px;
+    margin: 20px auto;
+}
+
+    .wallet2-wrap .wallet-detail img {
+        max-width: 50px;
+        vertical-align: inherit;
+    }
+
+#wallet2Modal .circle {
+    margin: auto;
+}
+
+#wallet2Modal .modal-dialog {
+    margin-top: 140px;
+}
+
+/*TUTORIAL 11*/
+.card-wrap {
+}
+
+    .card-wrap .card-img img {
+        max-width: 50px;
+        vertical-align: inherit;
+        margin: 10px 0;
+    }
+
+    .card-wrap .card-img img {
+        width: 100%;
+        height: auto;
+        vertical-align: inherit;
+        margin: 10px 0;
+    }
+
+.menu-wrap .card-img img {
+    max-width: 30px;
+    vertical-align: inherit;
+}
+
+.menu-wrap .card-img img {
+    width: 100%;
+    height: auto;
+    vertical-align: inherit;
+}
+
+#cardModal .circle {
+    margin: auto;
+}
+
+#cardModal .modal-dialog {
+    margin-top: 140px;
+}
+
+div.question {
+    background: #333 none repeat scroll 0 0;
+    border-radius: 90px 90px 0 0;
+    bottom: 31px;
+    color: #fff;
+    font-size: 21px;
+    height: 26px;
+    left: 0;
+    margin: auto;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    width: 46px;
+}
+
+.closeBtn {
+    bottom: 0;
+    cursor: pointer;
+    max-width: 100%;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    z-index: 999999;
+    color: white;
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+    .closeBtn img {
+        width: 100%;
+        height: 40px;
+    }
+
+
+
+@media (max-width: 1024px) {
+    #faviconModal .circle {
+        margin: 173px 0 0 19px;
+    }
+
+    #qrModal .circle {
+        margin: 173px 19px 0 0;
+    }
+
+    #cardModal .circle {
+        margin: 0px 0px 0 71px;
+    }
+}
+/**HP slate 8 pro**/
+/*@media only screen and (min-width: 768px) and (min-height:1024px) {
+    #coffeecupModal .circle{
+        margin-left: 14px;
+    }
+   #menuModal .circle{
+            margin-right: -2px;
+    }
+    #walletModal .circle {
+        margin-left: -71px;
+    }
+
+    .tip-wrapper {
+        width: 102%;
+    }
+
+    #walletManualModal .circle {
+        margin-left: -71px;
+    }
+
+    #coffeecupManualModal .circle {
+        margin-left: 8px;
+    }
+
+    #menuManualModal .circle {
+        margin-right: -1px;
+        max-width: 147px;
+        min-width: 130px;
+        height: 133px;
+    }
+}*/
+@media (max-width: 768px) {
+
+    .tip-wrapper p {
+        font-size: 35px;
+    }
+
+    #faviconModal .circle {
+        margin: 173px 0 0 5px;
+    }
+
+    #qrModal .circle {
+        margin: 173px 5px 0 0;
+    }
+
+    #inputModal .circle {
+        margin: 173px auto -8px;
+    }
+
+    #wallet2Modal .circle {
+        margin: -13px 0 0 61px;
+    }
+
+    #cardModal .circle {
+        margin: 39px 61px 0 61px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    #faviconModal .circle {
+        margin: 173px 0 0 -17px;
+    }
+
+    #qrModal .circle {
+        margin: 173px -17px 0 0;
+    }
+
+    #inputModal .circle {
+        margin: 173px auto -8px;
+    }
+
+    #wallet2Modal .circle {
+        margin: 34px 0 0 42%;
+    }
+
+    #cardModal .circle {
+        margin: 39px 0px 0 7%;
+    }
+}
+
+@media (max-width:590px) {
+    #cardModal .circle {
+        margin: 39px 0px 0 -20px;
+    }
+
+    .innper-space {
+        padding: 15px 35px 8px;
+    }
+}
+
+
+@media (max-width:480px) {
+
+    .double-arrow::before {
+        border-bottom: 15px solid transparent;
+        border-right: 20px solid #fa7922;
+        border-top: 15px solid transparent;
+        margin-left: -23px;
+        top: 43%;
+    }
+
+    .double-arrow::after {
+        border-bottom: 15px solid transparent;
+        border-left: 20px solid #fa7922;
+        border-top: 15px solid transparent;
+        margin-right: -23px;
+        top: 43%;
+    }
+
+    .wallet-wrap:after {
+        border-bottom: 15px solid transparent;
+        border-left: 20px solid #fa7922;
+        border-top: 15px solid transparent;
+        margin-right: -23px;
+        top: 43%;
+    }
+
+    .single-arrow-left:before {
+        border-bottom: 15px solid transparent;
+        border-right: 20px solid #fa7922;
+        border-top: 15px solid transparent;
+        margin-left: -23px;
+        top: 43%;
+    }
+
+    .tip-wrapper {
+        padding: 8px;
+        min-height: 210px;
+        max-height: 210px;
+    }
+
+        .tip-wrapper p {
+            font-size: 23px;
+        }
+
+
+    .coffeecup-wrap .cupimg {
+        margin: 8px auto;
+    }
+
+    .wallet-wrap .wallet-detail {
+        font-size: 19px;
+        margin: 10px auto;
+    }
+
+        .wallet-wrap .wallet-detail img {
+            max-width: 30px;
+        }
+
+    .menu-wrap .menu-icon, .menu-wrap .card-img, .cart-wrap .cart-icon, .key-wrap .key-icon, .favicon-wrap .favicon-icon, .qr-wrap .qr-icon, .card-wrap .card-img {
+        max-width: 35px;
+        margin: 10px auto;
+    }
+
+    .input-wrap input, .wallet2-wrap .wallet-detail {
+        margin: 10px auto;
+    }
+
+    .card-wrap .card-img img {
+        max-width: 30px;
+    }
+
+    wallet2-wrap {
+        margin-top: 38%;
+    }
+
+    #wallet2Modal .circle {
+        margin: 83% 0 0 21%;
+    }
+
+    #cardModal .circle {
+        margin: 83% 0 0 -73%;
+    }
+}
+
+
+@media (max-width : 320px) {
+    .slide-wrap {
+        margin-top: 9.5%;
+    }
+
+    .tip-wrapper p {
+        font-size: 20px;
+    }
+
+    .slide-text {
+        font-size: 21px;
+    }
+
+    #sliderModal .circle {
+        margin: -38px 0 0 0;
+    }
+
+    #sliderManualModal .circle {
+        margin: -38px 0 0 0;
+    }
+
+    .flash-wrap {
+        margin-top: 53%;
+    }
+
+    #flashModal .circle {
+        margin: -130px 0 0 -15px;
+    }
+
+    #favouriteModal .circle {
+        margin: -125px 0 0 -15px;
+    }
+
+    /*TUTORIAL 6*/
+    .qr-wrap {
+        margin-top: 53%;
+    }
+
+    #QRModal .circle {
+        margin: auto;
+        margin-left: -16px;
+        margin-top: -27px;
+    }
+
+    #codeModal .circle {
+        margin: auto;
+        margin-left: -6px;
+        margin-top: -125px;
+    }
+
+    /*TUTORIAL 7*/
+
+    .pin-wrap {
+        margin-top: 53%;
+    }
+
+    #pinModal .circle {
+        margin: auto;
+        margin-left: -10%;
+        margin-top: 32px;
+    }
+
+    #pinManualModal .circle {
+        margin: auto;
+        margin-left: -10%;
+        margin-top: 32px;
+    }
+
+    #btnModal .circle {
+        margin: auto;
+        margin-left: -15px;
+        margin-top: -47px;
+    }
+
+    /*TUTORIAL 8*/
+
+    .hand-wrap {
+        margin-top: 53%;
+    }
+
+    #handModal .circle {
+        margin: auto;
+        margin-left: 75%;
+        margin-top: 32px;
+    }
+
+    #handManualModal .circle {
+        margin: auto;
+        margin-left: 190px;
+        margin-top: 32px;
+    }
+}
+
+@media only screen and (max-width : 320px) {
+    #walletModal .circle {
+        margin-left: -28px;
+    }
+
+    .circle {
+        max-width: 80px;
+        min-width: 80px;
+        height: 80px;
+    }
+
+    .slide-text {
+        font-size: 13px;
+    }
+
+    .tip-wrapper p {
+        font-size: 13px;
+    }
+
+    #sliderModal .circle {
+        margin: -73px 0 0 0;
+    }
+
+    #flashModal .circle {
+        margin: 20px 0 0 -6px;
+    }
+
+    #QRModal .circle {
+        margin-left: -12px;
+        margin-top: 125px;
+    }
+
+    #pinModal .circle {
+        margin-top: 147px;
+    }
+
+    #handModal .circle {
+        margin-top: 149px;
+    }
+
+    #handModal .circle {
+        margin-top: 149px;
+        margin-left: 79%;
+    }
+
+    #sliderManualModal .circle {
+        margin: 33px 0 0 0;
+    }
+
+    #favouriteModal .circle {
+        margin: -1px 0 0 -15px;
+    }
+
+    #codeModal .circle {
+        margin-top: -1px;
+    }
+
+    #btnModal .circle {
+        margin-top: 100px;
+        margin-left: -5px;
+    }
+
+    #handManualModal .circle {
+        margin-top: 149px;
+    }
+
+    #pinManualModal .circle {
+        margin-top: 149px;
+    }
+
+    #favouriteModal .circle {
+        margin: -1px 0 0 -8px;
+    }
+
+    .slide-wrap {
+        margin-top: 45%;
+    }
+
+    .flash-wrap {
+        margin-top: 46%;
+    }
+
+    .qr-wrap {
+        margin-top: 46%;
+    }
+
+    .pin-wrap {
+        margin-top: 46%;
+    }
+
+    .hand-wrap {
+        margin-top: 46%;
+    }
+
+    #handModal .circle {
+        margin-top: 159px;
+    }
+
+    #pinModal .circle {
+        margin-top: 159px;
+    }
+}
+
+/*GALAXY S5*/
+@media only screen and (max-width : 360px) and (min-width:320px) {
+    #flashModal .circle {
+        margin-left: -9px;
+        /*margin-top: -44% !important;*/
+        margin-top: auto !important;
+        position: fixed;
+        top: 27%;
+        bottom: 0px;
+        margin-bottom: auto;
+        height: 100px;
+    }
+
+    #QRModal .circle {
+        margin-top: auto !important;
+        position: fixed;
+        bottom: 13%;
+        margin-bottom: auto;
+        height: 100px;
+        margin-left: -10px !important;
+    }
+
+    #pinModal .circle {
+        margin-top: auto !important;
+        position: fixed;
+        bottom: 0%;
+        margin-bottom: auto;
+        height: 100px;
+        margin-left: -30px !important;
+    }
+
+    #handModal .circle {
+        margin-top: auto !important;
+        position: fixed;
+        bottom: 0%;
+        right: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        margin-left: -30px !important;
+    }
+
+    #favouriteModal .circle {
+        position: fixed;
+        left: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        top: 20%;
+        bottom: 0px;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+    }
+
+    #codeModal .circle {
+        position: fixed;
+        left: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        top: 24%;
+        bottom: 0px;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        margin-right: auto;
+        left: 0px;
+        right: 0px;
+    }
+
+    #pinManualModal .circle {
+        position: fixed;
+        left: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 0%;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        left: 0px;
+    }
+
+    #handManualModal .circle {
+        position: fixed;
+        /*left: 0px;*/
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 0px;
+        text-align: center;
+        margin-top: auto !important;
+        margin-right: auto;
+        right: 0%;
+    }
+
+    #btnModal .circle {
+        position: fixed;
+        left: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        top: 50%;
+        bottom: 0px;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        margin-right: auto;
+        left: 0px;
+        right: 0px;
+    }
+
+    .slide-wrap {
+        margin-top: 8% !important;
+    }
+
+    .flash-wrap, .qr-wrap, .pin-wrap, .hand-wrap {
+        margin-top: 49% !important;
+    }
+}
+
+/*GALAXY S8*/
+@media only screen and (min-width:360px) and (min-height:740px) {
+    .slide-wrap {
+        margin-top: 8% !important;
+    }
+
+    .flash-wrap, .qr-wrap, .pin-wrap, .hand-wrap {
+        margin-top: 49% !important;
+    }
+
+    #flashModal .circle {
+        /*margin-top: auto !important;
+        position: fixed;
+        bottom: 30%;
+        margin-bottom: auto;
+        margin-left: -10px !important;*/
+        position: fixed;
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 34%;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        left: 38%;
+    }
+
+    #QRModal .circle {
+        /*margin-top: auto !important;
+        position: fixed;
+        bottom: 18%;
+        margin-bottom: auto;
+        height: 100px;
+        margin-left: -10px !important;*/
+        position: fixed;
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 16%;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        left: 38%;
+    }
+
+    #pinModal .circle {
+        margin-top: auto !important;
+        position: fixed;
+        bottom: 0%;
+        /*2%*/
+        margin-bottom: auto;
+        height: 100px;
+        margin-left: -30px !important;
+    }
+
+    #handModal .circle {
+        margin-top: auto !important;
+        position: fixed;
+        bottom: 0%;
+        /*2%*/
+        right: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        margin-left: -30px !important;
+    }
+
+    #favouriteModal .circle {
+        position: fixed;
+        /*left: 0px;*/
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 31%;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        left: 10px;
+    }
+
+    #codeModal .circle {
+        position: fixed;
+        left: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        /*top: 24%;*/
+        bottom: 31%;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        margin-right: auto;
+        left: 0px;
+        right: 0px;
+    }
+
+    #btnModal .circle {
+        position: fixed;
+        left: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 21%;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        margin-right: auto;
+        left: 0px;
+        right: 0px;
+    }
+
+    #pinManualModal .circle {
+        position: fixed;
+        left: 0px;
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 0%;
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        left: 0px;
+    }
+
+    #handManualModal .circle {
+        position: fixed;
+        /*left: 0px;*/
+        margin-bottom: auto;
+        height: 100px;
+        bottom: 0px;
+        text-align: center;
+        margin-top: auto !important;
+        margin-right: auto;
+        right: 0px;
+    }
+}
+
+/*GALAXY A5*/
+/*@media only screen and (max-width : 720px) and (max-height : 1280px) {
+    #flashModal .circle {
+        margin-left: -9px;
+        margin-top: -50%;
+    }
+
+    #QRModal .circle {
+        margin-left: -8px;
+        margin-top: 75%;
+    }
+
+    #pinModal .circle {
+        margin-top: 40%;
+    }
+
+    #handModal .circle {
+        margin-left: 76%;
+        margin-top: 41%;
+    }
+
+    #favouriteModal .circle {
+        margin-top: -46%;
+    }
+
+    #codeModal .circle {
+        margin-top: -44%;
+    }
+
+    #pinManualModal .circle {
+        margin-left: -10%;
+        margin-top: 40%;
+    }
+
+    #handManualModal .circle {
+        margin-left: 77%;
+        margin-top: 41%;
+    }
+
+    #btnModal .circle {
+        margin-top: 52%;
+    }
+}*/
+/*IPONE 6/7/8 PLUS*/
+@media only screen and (max-width : 1125px) and (max-height : 2001px) {
+    #flashModal .circle {
+        margin-top: -3%;
+    }
+
+    #QRModal .circle {
+        margin-left: -2px;
+        margin-top: 119%;
+    }
+
+    #pinModal .circle {
+        margin-top: 68%;
+        margin-left: -8%;
+    }
+
+    #handModal .circle {
+        margin-left: 80%;
+        margin-top: 67%;
+    }
+
+    #favouriteModal .circle {
+        margin-top: -1%;
+    }
+
+    #codeModal .circle {
+        margin-top: -1%;
+    }
+
+    #btnModal .circle {
+        margin-top: 83%;
+        margin-left: -1px;
+    }
+
+    #pinManualModal .circle {
+        margin-left: -8%;
+        margin-top: 67%;
+    }
+
+    #handManualModal .circle {
+        margin-left: 80%;
+        margin-top: 67%;
+    }
+
+    .flash-wrap, .qr-wrap, .pin-wrap, .hand-wrap {
+        margin-top: 45%;
+    }
+
+    .slide-wrap {
+        margin-top: 7%;
+    }
+}
+
+
+@media (min-width: 768px) {
+    .circle {
+        max-width: 165px;
+        height: 165px;
+        border: solid 7px #ffffff;
+    }
+
+    .tip-wrapper {
+        width: 117%;
+        position: relative;
+        left: -90px;
+    }
+    /*.tip-wrapper p{
+        font-size: 35px;
+    }*/
+    #favouriteModal .flash-wrap {
+        margin-top: 57% !important;
+    }
+
+    #codeModal .flash-wrap {
+        margin-top: 57% !important;
+    }
+
+    #btnModal .qr-wrap {
+        margin-top: 54% !important;
+    }
+
+    #walletModal .circle {
+        margin-left: -70px;
+    }
+
+    .wallet-wrap {
+        margin-top: 28%;
+    }
+
+    .coffeecup-wrap {
+        margin-top: 26%;
+    }
+
+    .menu-wrap {
+        margin-top: 29%;
+    }
+
+    .slide-wrap {
+        margin-top: 14% !important;
+    }
+
+    .qr-wrap {
+        margin-top: 56% !important;
+    }
+
+    .hand-wrap {
+        margin-top: 57% !important;
+    }
+
+    .pin-wrap {
+        margin-top: 54% !important;
+    }
+
+    .flash-wrap {
+        margin-top: 53% !important;
+    }
+
+    #coffeecupModal .circle {
+        margin-left: -13px;
+    }
+
+    #menuModal .circle {
+        /*margin-right: -1px;*/
+         margin-right: -14px;
+        width: 165px;
+    }
+
+    #sliderModal .circle {
+        position: relative;
+        left: 46px;
+        /*top: -40px;*/
+          top: -53px;
+        height: 165px;
+        width: 165px;
+    }
+
+    #sliderModal p {
+        font-size: 35px;
+    }
+
+    #sliderManualModal p {
+        font-size: 35px;
+    }
+
+    #flashModal .circle {
+        /*bottom: 32%;*/
+          bottom: 36%;
+        max-width: 165px;
+        height: 165px;
+        width: 165px;
+        left: 35%;
+    }
+    #QRModal .circle {
+          bottom: 20%;
+        left: 35%;
+        max-width: 282px !important;
+        height: 165px;
+        position: fixed;
+        margin-bottom: auto;
+        /*bottom: 11%;*/
+        text-align: center;
+        margin-top: auto !important;
+        margin-left: auto !important;
+        /*left: 34%;*/
+        width: 165px;
+    }
+
+    #pinModal .circle {
+        /*margin-left: -76px !important;*/
+        height: 165px;
+        width: 165px;
+         margin-left: -94px !important;
+    }
+
+    #handModal .circle {
+        right: 37px;
+        height: 165px;
+        width: 165px;
+    }
+
+    #walletManualModal .circle {
+        margin-left: -70px;
+    }
+
+    #coffeecupManualModal .circle {
+        margin-left: -13px;
+    }
+
+    #menuManualModal .circle {
+        /*margin-right: -1px;*/
+        height: 165px;
+        width: 165px;
+         margin-right: -17px;
+    }
+
+    #sliderManualModal .circle {
+        position: relative;
+        left: 46px;
+        top: -44px;
+        height: 165px;
+        width: 165px;
+    }
+
+    #favouriteModal .circle {
+        /*bottom: 33%;*/
+        left: -38px;
+        height: 165px;
+        width: 165px;
+         bottom: 36%;
+    }
+
+    #codeModal .circle {
+        /*bottom: 31%;*/
+        left: -95px;
+        height: 165px;
+        width: 165px;
+         bottom: 36%;
+    }
+
+    #btnModal .circle {
+        /*bottom: 20%;*/
+        left: -83px;
+        height: 165px;
+        width: 165px;
+         bottom: 26%;
+    }
+
+    #pinManualModal .circle {
+        left: -5%;
+        height: 165px;
+        width: 165px;
+    }
+
+    #handManualModal .circle {
+        right: 5%;
+        height: 165px;
+        width: 165px;
+    }
+}
+
+
+@media only screen and (max-width : 800px) and (max-height : 1280px) and (min-width : 800px) and (min-height : 1280px){
+    #sliderModal .circle {
+        top: -53px;
+    }
+
+    #flashModal .circle {
+        bottom: 36%;
+    }
+
+
+    #menuModal .circle{
+            margin-right: -14px;
+    }
+    #QRModal .circle{
+        bottom: 20%;
+        left: 35%;
+    }
+    #pinModal .circle{
+        margin-left: -94px !important;
+    }
+    #menuManualModal .circle{
+        margin-right: -17px;
+    }
+    #favouriteModal .circle{
+        bottom: 36%;
+    }
+    #codeModal .circle{
+        bottom: 36%;
+    }
+    #btnModal .circle{
+            bottom: 26%;
+    }
+}

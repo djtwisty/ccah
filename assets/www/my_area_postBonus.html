@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/fonts-style.css" rel="stylesheet" />
+    <link href="css/custom-loading.css" rel="stylesheet" />
+    <link href="css/progress.css" rel="stylesheet" />
+    <link href="css/custom-style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/slick.css" />
+</head>
+<body>
+
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4 price primary_color">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div id="walletBal"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12"><span id="lblBalance"></span><span class="currency">€</span></div>
+                    </div>
+                </div>
+                <div class="col-xs-4"><i id="backMain" class="logo"></i></div>
+            </div>
+        </div>
+    </div>
+    <div class="container ">
+        <div class="row">
+            <div class="col-xs-12 text-center ">
+                <div class="pge-title"><i class="my-area-s"></i><span id="accountTitle"></span></div>
+                <div id="last-transaction-cont" class="last-transaction-container post-bonus-details " style="padding-top: 0px;">
+                    <div class="progress-cont">
+                        <h2><span id="extDetailHeader"></span><i class="myarea-ttl-icon-s"></i></h2>
+                        <div class="row">
+                            <div class="col-xs-12 text-left">
+                                <table>
+                                    <tr>
+                                        <td width="50" id="tel"></td>
+                                        <td id="telNo"></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="50" id="email"></td>
+                                        <td id="emailSpn"></td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="wht-bg-cont" class="wht-bg text-left top-radius">
+
+
+                        <div class="my-area-form">
+                            <div class="form-group">
+                                <label id="acName"></label>
+                                <input type="text" id="userName" name="userName" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label id="surName"></label>
+                                <input type="text" id="userSurName" name="userSurName" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                   <div class="date-cont">
+                                    <label id="edDOB"></label>
+                                    <div class="row-fluid">
+                                        <div class="col-xs-4">
+                                            <label id="dateLbl"></label>
+                                            <select id="dateDD">
+                                                <option></option>
+                                            </select>
+                                        </div>
+                                        <div class="col-xs-4">
+                                            <label id="monthLbl"></label>
+                                            <select id="monthDD">
+                                                <option></option>
+                                            </select>
+                                        </div>
+                                        <div class="col-xs-4">
+                                            <label id="yearLbl"></label>
+                                            <input type="tel" id="yearDD" maxlength="4" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="form-group">
+                                <label id="edBC"></label>
+                                <select id="countryDD" class="form-control">
+                                   <option value="0"></option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label id="edPv"></label>
+                                <select disabled="disabled" id="provinciaDD" class="form-control">
+                                    <option value="0"></option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label id="edBct"></label>
+                                <select disabled="disabled" id="citiesDD" class="form-control">
+                                    <option value="0"></option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label id="edSex"></label>
+                               <select id="sexDD" class="form-control">
+                                    <option value="0"></option>
+                                    <option value="1" id="mailOpt"></option>
+                                    <option value="2" id="femailOpt"></option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label id="edProf"></label>
+                                <select id="professionDD" class="form-control">
+                                    <option></option>
+                                </select>
+                            </div>
+                             <p class="ong-txt bottom-txt" id="extprofilepageclose"></p>
+                            <button type="submit" id="cnclBtn"></button>
+                            <button type="submit" class="mrgn-left" id="saveBtn"></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+   <div id="ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="message1"></p>
+                    <p id="message2"></p>
+                    <p id="message3"></p>
+                    <button type="submit" id="alertOk"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="js_ext/jquery-1.11.1.js"></script>
+    <script src="js_ext/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js_ext/slick.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js_common/App.js"></script>
+    <script src="js_ext/jquery-asPieProgress.js"></script>
+    <script src="js_common/commonFunctions.js"></script>
+    <script src="js_localizations/MPResources.js"></script>
+    <script src="js/my_area_postBonus.js"></script>
+    <div class="custom-modal"></div>
+</body>
+</html>

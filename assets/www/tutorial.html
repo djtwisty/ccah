@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="./css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/swiper.min.css" />
+    <link href="./css/fonts-style.css" rel="stylesheet">
+    <link href="./css/custom-style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
+
+</head>
+<body style="overflow-x: hidden;">
+    <div class="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4 price primary_color">
+                </div>
+                <div class="col-xs-4 "><i class="logo-w-hm"></i></div>
+                <div class="col-xs-4 text-right"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container ">
+
+        <div class="swiper-container swiper-container-relative">
+            <h3 id="lblWelcomTut"></h3>
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <img id="Useful_Info_01" />
+                </div>
+                <div class="swiper-slide">
+                    <img id="Useful_Info_02" />
+                </div>
+                <div class="swiper-slide">
+                    <img id="Useful_Info_03" />
+                </div>
+                <div class="swiper-slide">
+                    <img id="Useful_Info_04" />
+                </div>
+                <div class="swiper-slide">
+                    <img id="Useful_Info_05" />
+                </div>
+                <div class="swiper-slide">
+                    <img id="Useful_Info_06" />
+                </div>
+            </div>
+        </div>
+        <a class="skip-txt" id="skipToLogin1" href="login.html"></a>
+        <div class="swiper-pagination"></div>
+    </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="./js_ext/jquery-1.11.1.js"></script>
+    <script src="./js_ext/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./js_ext/slick.js"></script>
+    <script type="text/javascript" src="./js_ext/swiper.min.js"></script>
+    <script type="text/javascript" src="js_ext/owl.carousel.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js_common/App.js"></script>
+    <script src="js_localizations/MPResources.js"></script>
+    <script src="js_common/commonFunctions.js"></script>
+    <script src="js/tutorial.js"></script>
+    <script type="text/javascript">
+
+        var swiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true
+        });
+    </script>
+     <div id="ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="message1"></p>
+                    <p id="message2"></p>
+                    <p id="message3"></p>
+                    <button type="submit" id="alertOk"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="custom-modal"></div>
+</body>
+</html>

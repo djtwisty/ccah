@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, height=device-height" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/custom-style.css" rel="stylesheet" />
+    <link href="css/fonts-style.css" rel="stylesheet" />
+    <link href="css/custom-style.css" rel="stylesheet">
+    <link href="css/custom-loading.css" rel="stylesheet" />
+
+</head>
+<body style="background:white;">
+    <div>
+
+    </div>
+
+    <div id="ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="message1"></p>
+                    <p id="message2"></p>
+                    <p id="message3"></p>
+                    <button type="submit" id="alertOk"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="custom-modal"></div>
+
+    <div id="ext_ct_modal_popup" class="modal fade info-popup-box" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-inner-div">
+                    <p id="ext_message1"></p>
+                    <p id="ext_message2"></p>
+                    <p id="ext_message3"></p>
+                    <p id="ext_message4"></p>
+                    <button type="submit" id="alertOkExt"></button>
+                    <button type="submit" id="alertCancel"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="js_ext/jquery-1.11.1.js"></script>
+<script src="js_ext/bootstrap.min.js"></script>
+<script type="text/javascript" src="cordova.js"></script>
+<script src="js_common/App.js"></script>
+<script src="js_localizations/MPResources.js"></script>
+<script src="js_common/commonFunctions.js"></script>
+<script src="js/splashLogin.js"></script>
+<script>
+    $("#alertOk").click(function () {
+        navigator.app.exitApp();
+    });
+
+    $("#alertOkExt").click(function () {
+        window.location = 'login.html';
+    });
+
+    document.addEventListener("deviceready", onDeviceReady, false);
+
+    function getAccessTokenFromBackGround() {
+
+        var status = cmn_AuthenticationAPI();
+        jQuery.support.cors = true;
+
+        var timeOutVar = setTimeout(function () {
+            cmn_openModelPopup(ErrorMessasges("UserTimeExpired"), "", "", "");
+        }, 15000);
+
+        if (status = "success") {
+            clearTimeout(timeOutVar);
+               window.localStorage.setItem("TokenExpire", GetTokenExpiration(cmn_GetValueOfTokenExpire() - 300));
+                AndroidFunction.showToast();
+                if ((window.localStorage.getItem('HasMoreThan16Years') === "false") || (window.localStorage.getItem('HasMoreThan16Years') === false) || (window.localStorage.getItem('HasMoreThan16Years') == null) || (window.localStorage.getItem('HasMoreThan16Years') == "null")) {
+                    window.location.href = "importantNotice.html";
+                }
+                else { getNonViewedPromo_frmBackGround(false); }
+        }
+        else {
+            clearTimeout(timeOutVar);
+            $("body").removeClass("loading");
+            cmn_openModelPopup(ErrorMessasges(status), "", "", "");
+            window.localStorage.removeItem("Password")
+            window.location.href = "login.html";
+        }
+    }
+
+    /*Method to check promo pup-up*/
+    function checkPromoPupUpDrt() {
+        var url = StageUrl + '/notifications/newer/count?notificationtype=3 ';
+        this._xhr = jQuery.ajax({
+            method: 'GET',
+            url: url,
+
+            dataType: 'json',
+            contentType: 'application/json',
+            headers: {
+                'Authorization': cmn_GetValuesFromAndroidFunction("AccessToken")
+            },
+            success: function (data, status, jqXHR) {
+                if (status == "success") {
+                    if (data.Total > 0) {
+                        window.location.href = 'login_promo.html';
+                    } else {
+                        window.location.href = 'home.html';
+                    }
+                }
+            },
+            error: function (jqXHR, status, error) {
+                $("body").removeClass("loading");
+                cmn_openModelPopup(ErrorMessasges(jqXHR.responseJSON.error_description), "", "", "");
+            }
+        });
+    }
+
+    function onDeviceReady() {
+        getFirebaseToken();
+        openNotification();
+        if (window.localStorage.getItem("AppLanguageSet") !== 'true') {
+            splshLgHelper.localization();
+        }
+        loadString();
+        if (!cmn_checkConnection()) {
+            splshLgHelper.noNetwork = false;
+            return false;
+        }
+        if (window.localStorage.getItem("takeBackGround") == 'true') {
+            if (window.localStorage.getItem('UserUId') != null && window.localStorage.getItem('RememberPwd') == 'checked') {
+                if (cmn_checkConnection()) {
+                    if (!CheckTokenExpiration(cmn_GetValuesFromAndroidFunction("TokenExpire"))) {
+                        getAccessTokenFromBackGround();
+                    }
+                    else if ((window.localStorage.getItem('HasMoreThan16Years') === "false") || (window.localStorage.getItem('HasMoreThan16Years') === false) || (window.localStorage.getItem('HasMoreThan16Years') == null) || (window.localStorage.getItem('HasMoreThan16Years') == "null")) {
+                        window.location.href = "importantNotice.html";
+                    }
+                    else {
+                        getNonViewedPromo_frmBackGround(true)
+                    }
+                }
+            }
+            else {
+                window.localStorage.setItem("continueLogin", "No");
+                window.location.href = 'login.html';
+            }
+        }
+        else {
+            if (window.localStorage.getItem('UserUId') != null && window.localStorage.getItem('RememberPwd') == 'checked') {
+                u_name = localStorage.getItem("_phoneNumber");
+                u_pwd = localStorage.getItem("_password");
+
+                if (u_name != "" || u_name != null || u_name != "null" || u_name != "undefined" !=
+                u_pwd != "" || u_pwd != null || u_pwd != "null" || u_pwd != "undefined"
+                ) {
+                    window.localStorage.setItem("continueLogin", "Yes");
+                    if (!cmn_checkConnection()) {
+                        return false;
+                    }
+                    if (!CheckTokenExpiration(cmn_GetValuesFromAndroidFunction("TokenExpire"))) {
+                       getAccessTokenFromBackGround();
+                    }
+                    else if ((window.localStorage.getItem('HasMoreThan16Years') === "false") || (window.localStorage.getItem('HasMoreThan16Years') === false) || (window.localStorage.getItem('HasMoreThan16Years') == null) || (window.localStorage.getItem('HasMoreThan16Years') == "null")) {
+                        window.location.href = "importantNotice.html";
+                    }
+                    else {
+                        getNonViewedPromo_frmBackGround(true)
+                    }
+                }
+                else {
+                    window.localStorage.setItem("continueLogin", "No");
+                    window.location.href = 'login.html';
+                }
+            }
+            else {
+                window.localStorage.setItem("continueLogin", "No");
+                window.location.href = 'login.html';
+            }
+        }
+    }
+
+    function getNonViewedPromo_frmBackGround(callCheckPromoPopUp) {
+        var url = StageUrl + '/notifications/notviewed/count?notificationtype=3 ';
+        var timeOutVar = setTimeout(function () {
+            cmn_openModelPopup(ErrorMessasges("UserTimeExpired"), "", "", "");
+        }, 15000);
+
+
+        this._xhr = jQuery.ajax({
+            method: 'GET',
+            url: url,
+            dataType: 'json',
+            contentType: 'application/json',
+            headers: {
+                'Authorization': cmn_GetValuesFromAndroidFunction("AccessToken")
+            },
+            success: function (data, status, jqXHR) {
+                clearTimeout(timeOutVar);
+                if (status == "success") {
+                    window.localStorage.setItem('PromoCount', data.Total);
+                    AndroidFunction.showBadge(data.Total.toString());
+                    if (window.localStorage.getItem('EmailConfirmed') == 'false' && window.localStorage.getItem('PhoneConfirmed') == 'false') {
+                        window.location.href = "pin_validation.html";
+                    }
+                    else if (window.localStorage.getItem('PhoneConfirmed') == 'false') {
+                        window.localStorage.setItem('callPinAPI', true);
+                        window.location.href = "pin_validation.html";
+                    }
+                    else if (window.localStorage.getItem('EmailConfirmed') == 'false') {
+                        window.location.href = "email-validation.html";
+                    }
+
+                    if (callCheckPromoPopUp) {
+                        checkPromoPupUp();
+                    }
+                    else {
+                        if (window.localStorage.getItem("notificationType") === "3") {
+                            window.localStorage.removeItem("notificationType");
+                            window.location.href = 'promo-page.html';
+                        }
+                        else if (window.localStorage.getItem("notificationType") === "1") {
+                            window.location.href = 'home.html';
+                        }
+                        else {
+                            checkPromoPupUp();
+                        }
+                    }
+                }
+            },
+            error: function (jqXHR, status, error) {
+                $("body").removeClass("loading");
+                clearTimeout(timeOutVar);
+                cmn_openExtModelPopup(ErrorMessasges('authorization_has_been_denied_4_this_request'), "", "", "", false, "", Resources.all_alert_OK_button, Resources.all_alert_cancel_button);
+            }
+        });
+    }
+
+</script>
+
+
+</html>
+

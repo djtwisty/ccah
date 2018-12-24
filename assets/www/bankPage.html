@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, height=device-height" />
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/custom-style.css" rel="stylesheet" />
+    <link href="css/fonts-style.css" rel="stylesheet" />
+    <link href="css/custom-style.css" rel="stylesheet">
+    <link href="css/custom-loading.css" rel="stylesheet" />
+    <script src="js_common/App.js"></script>
+</head>
+<body class="loading">
+    <div id="externalLink">
+    </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="./js_ext/jquery-1.11.1.js"></script>
+    <script src="./js_ext/bootstrap.min.js"></script>
+    <script>
+
+        jQuery(document).ready(function () {
+            $("#externalLink").html('<object id="data" style="width:100%;height:100%; position:fixed!important;" data=\'' + window.localStorage.getItem('redirectToBankPage') + '\'></object>');
+            document.addEventListener("deviceready", function () {
+                if (document.getElementById("prg") != null)
+                    alert(document.getElementById("prg").innerHTML);
+            }, false);
+            var object = document.getElementById("data");
+            object.onload = function () {
+                $("body").removeClass('loading');
+               
+                if (object.contentDocument.body.baseURI.indexOf('https://apis.venpay.it') === 0) {
+                    if (object.contentDocument.body.childNodes[0].innerHTML != "" && object.contentDocument.body.childNodes[0].innerHTML != undefined) {
+                        window.localStorage.setItem('resultOfExternalLink', object.contentDocument.body.childNodes[0].innerHTML);
+                        window.location.href = 'wallet-topup.html';
+                    }
+                    else {
+                        window.location.href = 'wallet-topup.html';
+                    }
+                }
+            };
+        });
+
+    </script>
+    <div class="custom-modal"></div>
+   
+</body>
+</html>
